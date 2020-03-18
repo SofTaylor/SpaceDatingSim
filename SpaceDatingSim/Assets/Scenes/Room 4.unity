@@ -867,7 +867,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1054205055}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 589020221}
@@ -1098,15 +1098,16 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1499880256, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
-      propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
-      value: 
-      objectReference: {fileID: 1635726455}
-    - target: {fileID: 2722505055615152391, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+    - target: {fileID: 7948315951828168024, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
-      propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
-      value: 
-      objectReference: {fileID: 1635726455}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7948315951828168024, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7690946907741352691, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -1122,16 +1123,15 @@ PrefabInstance:
       propertyPath: m_AnchorMax.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7948315951828168024, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+    - target: {fileID: 1499880256, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
+      propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
+      value: 
+      objectReference: {fileID: 1635726455}
+    - target: {fileID: 2722505055615152391, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7948315951828168024, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
+      propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
+      value: 
+      objectReference: {fileID: 1635726455}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
 --- !u!1 &1346664882
@@ -2443,7 +2443,7 @@ GameObject:
   - component: {fileID: 1951289004}
   - component: {fileID: 1951289003}
   m_Layer: 0
-  m_Name: Gym
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2487,7 +2487,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -10
-  m_Sprite: {fileID: 21300000, guid: 31abdc9f8a8894f6a85ba48a81941267, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 691fc0d446e3c41c0902240009d57dce, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2506,8 +2506,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1951289002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.5859, y: 2.5859, z: 2.5859}
+  m_LocalPosition: {x: -0.24, y: 0, z: 0}
+  m_LocalScale: {x: 1.78, y: 1.78, z: 2}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1

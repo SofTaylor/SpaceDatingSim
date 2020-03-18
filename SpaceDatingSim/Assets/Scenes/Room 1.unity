@@ -1138,23 +1138,6 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1499880256, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
-      propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
-      value: 
-      objectReference: {fileID: 1635726455}
-    - target: {fileID: 1499880256, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
-      propertyPath: fsm.states.Array.data[0].actionData.fsmStringParams.Array.data[0].useVariable
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1499880256, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
-      propertyPath: fsm.states.Array.data[0].actionData.fsmStringParams.Array.data[0].value
-      value: Argh_1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2722505055615152391, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
-      value: 
-      objectReference: {fileID: 1635726455}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
 --- !u!1 &1346664882
@@ -1413,8 +1396,7 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1635726461}
+  selectedBlocks: []
   selectedCommands:
   - {fileID: 1635726463}
   variables:
@@ -3218,7 +3200,7 @@ GameObject:
   - component: {fileID: 1951289004}
   - component: {fileID: 1951289003}
   m_Layer: 0
-  m_Name: Gym
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3262,7 +3244,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -10
-  m_Sprite: {fileID: 21300000, guid: 31abdc9f8a8894f6a85ba48a81941267, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a764f5292e0ee414c954899c0d9e1776, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3281,8 +3263,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1951289002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.6, y: 2.2, z: 2.5859}
+  m_LocalPosition: {x: 9.01, y: 0, z: 0}
+  m_LocalScale: {x: 3.882918, y: 3.4087546, z: 3.861861}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -3459,15 +3441,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Argh
       objectReference: {fileID: 0}
+    - target: {fileID: 8863358080097378938, guid: 6de91ca7f68aa4bbc9ed5f9a8c575a9e,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1490dc3d1af09445cb9830b2db8cb9f0,
+        type: 3}
     - target: {fileID: 8863358080097378933, guid: 6de91ca7f68aa4bbc9ed5f9a8c575a9e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.4
+      value: 0.54
       objectReference: {fileID: 0}
     - target: {fileID: 8863358080097378933, guid: 6de91ca7f68aa4bbc9ed5f9a8c575a9e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.43
+      value: -3.53
       objectReference: {fileID: 0}
     - target: {fileID: 8863358080097378933, guid: 6de91ca7f68aa4bbc9ed5f9a8c575a9e,
         type: 3}
