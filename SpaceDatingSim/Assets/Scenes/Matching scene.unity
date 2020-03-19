@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 41843535}
   - component: {fileID: 41843536}
   m_Layer: 0
-  m_Name: P3 table 1 (1)
+  m_Name: The Miz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -145,7 +145,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 41843534}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.16, y: 0.12, z: 0}
+  m_LocalPosition: {x: -2.66, y: 0.79, z: 0}
   m_LocalScale: {x: 0.46967542, y: 0.46967542, z: 0.46967542}
   m_Children: []
   m_Father: {fileID: 695425549}
@@ -189,7 +189,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: a3850401348404655bd0352054c28683, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d42ec28adf25348ebad7fd1357079056, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -214,7 +214,7 @@ GameObject:
   - component: {fileID: 85396285}
   - component: {fileID: 85396284}
   m_Layer: 0
-  m_Name: BuffyHotty_draggable
+  m_Name: Tony
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -272,18 +272,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.18427801, y: -0.12144959}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 6.78, y: 6.11}
+    oldSize: {x: 3.36, y: 3.6}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3, y: 3}
+  m_Size: {x: 2.1049342, y: 1.8934574}
   m_EdgeRadius: 0
 --- !u!212 &85396287
 SpriteRenderer:
@@ -323,7 +323,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300000, guid: 903b5586ae16348e1800c8eb04b8e03a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -342,8 +342,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 85396283}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.14, y: -2.6, z: 0}
-  m_LocalScale: {x: 0.6892996, y: 0.6723569, z: 0.89172}
+  m_LocalPosition: {x: -6.22, y: -2.29, z: 0}
+  m_LocalScale: {x: 1.1173546, y: 1.0898906, z: 1.4454782}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
@@ -362,7 +362,7 @@ GameObject:
   - component: {fileID: 89779152}
   - component: {fileID: 89779151}
   m_Layer: 0
-  m_Name: Player 3
+  m_Name: The Miz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -420,18 +420,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.33594656, y: -0.00000011920929}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5, y: 6.34}
+    oldSize: {x: 5.5, y: 7.92}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3, y: 3}
+  m_Size: {x: 3.6718931, y: 4.4557724}
   m_EdgeRadius: 0
 --- !u!212 &89779154
 SpriteRenderer:
@@ -471,7 +471,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a3850401348404655bd0352054c28683, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 73d558a3cf3a9496695f399ce0f95ebb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -490,7 +490,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 89779150}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.23999953, y: -2.4399998, z: 0}
+  m_LocalPosition: {x: -0.83, y: -2.4399998, z: 0}
   m_LocalScale: {x: 0.5253479, y: 0.5253479, z: 0.5253479}
   m_Children: []
   m_Father: {fileID: 0}
@@ -630,12 +630,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 94a58cc3024ef46b6a653e7c22c69410, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a76620180138340dd807386ce682b895, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 13, y: 13.16}
+  m_Size: {x: 10, y: 4.54}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -668,7 +668,7 @@ GameObject:
   m_Component:
   - component: {fileID: 369071096}
   m_Layer: 0
-  m_Name: Argh and P2
+  m_Name: Argh and Linda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -682,7 +682,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 369071094}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.29000008, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 541873158}
@@ -1009,7 +1009,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 460754920}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.17, y: 0.24, z: 0}
+  m_LocalPosition: {x: 2.66, y: 0.73, z: 0}
   m_LocalScale: {x: 0.44677252, y: 0.44677252, z: 0.44677252}
   m_Children: []
   m_Father: {fileID: 1041925393}
@@ -1053,7 +1053,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: a3850401348404655bd0352054c28683, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d42ec28adf25348ebad7fd1357079056, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1312,7 +1312,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 541873157}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.442205, y: 0.082987465, z: 0}
+  m_LocalPosition: {x: -2.5, y: 0, z: 0}
   m_LocalScale: {x: 0.40143448, y: 0.40143448, z: 0.40143448}
   m_Children: []
   m_Father: {fileID: 369071096}
@@ -1356,7 +1356,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 98dba5995505c4c3a99f9c5e3a32d264, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1490dc3d1af09445cb9830b2db8cb9f0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1625,7 +1625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 695425549}
   m_Layer: 0
-  m_Name: Buffy and P3
+  m_Name: Tony and The Miz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1639,7 +1639,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 695425547}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.38, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1856850867}
@@ -2760,7 +2760,7 @@ GameObject:
   - component: {fileID: 943404185}
   - component: {fileID: 943404184}
   m_Layer: 0
-  m_Name: Argh_draggable
+  m_Name: Argh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2818,18 +2818,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.15076113, y: -0.030153036}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 7.76, y: 8}
+    oldSize: {x: 5.4, y: 5.4}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3, y: 3}
+  m_Size: {x: 4.2663975, y: 4.5076184}
   m_EdgeRadius: 0
 --- !u!212 &943404187
 SpriteRenderer:
@@ -2869,7 +2869,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 21300000, guid: 98dba5995505c4c3a99f9c5e3a32d264, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 84c7e9508eb444e0aa98cb17ed3ea68a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2958,7 +2958,7 @@ GameObject:
   - component: {fileID: 964183632}
   - component: {fileID: 964183633}
   m_Layer: 0
-  m_Name: Mushroom table 1
+  m_Name: Linda table 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2972,8 +2972,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 964183631}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.17, y: 0.01, z: 0}
-  m_LocalScale: {x: 0.77055347, y: 0.77055347, z: 0.77055347}
+  m_LocalPosition: {x: 2.43, y: 1.09, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.77055347}
   m_Children: []
   m_Father: {fileID: 369071096}
   m_RootOrder: 1
@@ -3016,7 +3016,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: ea8f56c43254d41728f5ac4e8299b6c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3eb515cbb42954d688d43920aee40bbc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3082,7 +3082,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 94a58cc3024ef46b6a653e7c22c69410, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a76620180138340dd807386ce682b895, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3213,7 +3213,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1041925391}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.29000008, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1726086040}
@@ -3375,7 +3375,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1135924994}
   m_Layer: 0
-  m_Name: P2 and P3
+  m_Name: Linda and The Miz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3389,7 +3389,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1135924992}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.3799999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1948114024}
@@ -3422,7 +3422,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225370748}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.442205, y: 0.082987465, z: 0}
+  m_LocalPosition: {x: -2.5, y: 0, z: 0}
   m_LocalScale: {x: 0.40143448, y: 0.40143448, z: 0.40143448}
   m_Children: []
   m_Father: {fileID: 1931666668}
@@ -3466,7 +3466,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 98dba5995505c4c3a99f9c5e3a32d264, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1490dc3d1af09445cb9830b2db8cb9f0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3554,7 +3554,7 @@ GameObject:
   - component: {fileID: 1278148614}
   - component: {fileID: 1278148615}
   m_Layer: 0
-  m_Name: P3 table 1 (1)
+  m_Name: The Miz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3568,7 +3568,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1278148613}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.16, y: 0.12, z: 0}
+  m_LocalPosition: {x: -2.66, y: 0.79, z: 0}
   m_LocalScale: {x: 0.46967542, y: 0.46967542, z: 0.46967542}
   m_Children: []
   m_Father: {fileID: 1135924994}
@@ -3612,7 +3612,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: a3850401348404655bd0352054c28683, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d42ec28adf25348ebad7fd1357079056, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4428,7 +4428,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1366657643}
   m_Layer: 0
-  m_Name: Buffy and P2
+  m_Name: Tony and Linda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4442,7 +4442,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1366657641}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.3799999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1649175144}
@@ -4540,7 +4540,7 @@ GameObject:
   - component: {fileID: 1413440324}
   - component: {fileID: 1413440325}
   m_Layer: 0
-  m_Name: Mushroom table 1 (1)
+  m_Name: Linda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4554,8 +4554,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1413440323}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.16, y: 0.08, z: 0}
-  m_LocalScale: {x: 0.77055347, y: 0.77055347, z: 0.77055347}
+  m_LocalPosition: {x: -2.16, y: 1.28, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.77055347}
   m_Children: []
   m_Father: {fileID: 1366657643}
   m_RootOrder: 1
@@ -4598,9 +4598,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: ea8f56c43254d41728f5ac4e8299b6c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3eb515cbb42954d688d43920aee40bbc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 7.76, y: 8}
@@ -5048,7 +5048,7 @@ GameObject:
   - component: {fileID: 1649175144}
   - component: {fileID: 1649175145}
   m_Layer: 0
-  m_Name: Buffy Hotty table 1 (1)
+  m_Name: Tony
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5062,7 +5062,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1649175143}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.38, y: 0.87, z: 0}
+  m_LocalPosition: {x: 2.66, y: 0.87, z: 0}
   m_LocalScale: {x: 0.77055347, y: 0.77055347, z: 0.77055347}
   m_Children: []
   m_Father: {fileID: 1366657643}
@@ -5106,7 +5106,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 903b5586ae16348e1800c8eb04b8e03a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 33699678450034a87baaf1501b1707c0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5349,11 +5349,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -618.3212, y: 331.18848}
+  scrollPos: {x: 505.4633, y: 712.237}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.65692675
+  zoom: 0.5721641
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -5361,9 +5361,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1714546371}
+  - {fileID: 1714546415}
   selectedCommands:
-  - {fileID: 1714546447}
+  - {fileID: 1714546414}
   variables:
   - {fileID: 1714546374}
   - {fileID: 1714546464}
@@ -5415,7 +5415,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 2
   indentLevel: 0
-  storyText: You want to match Argh with Player 2?
+  storyText: You want to match Argh with Linda?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5457,14 +5457,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 472.4785
+    x: 471.08252
     y: 89.66084
-    width: 196.89613
+    width: 138.26138
     height: 40
   tint: {r: 1, g: 0.7248058, b: 0.5896226, a: 1}
   useCustomTint: 1
   itemId: 1
-  blockName: Argh -> Player 2
+  blockName: Argh -> Linda
   description: 
   eventHandler: {fileID: 1714546355}
   commandList:
@@ -5525,14 +5525,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 469.7285
-    y: 199.67577
-    width: 206.02957
+    x: 468.33252
+    y: 201.07175
+    width: 138.26138
     height: 40
   tint: {r: 0.7166631, g: 1, b: 0.6179246, a: 1}
   useCustomTint: 1
   itemId: 8
-  blockName: Argh -> Buffy Hotty
+  blockName: Argh -> Tony
   description: 
   eventHandler: {fileID: 1714546357}
   commandList:
@@ -5595,12 +5595,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 473.37766
     y: 143.11989
-    width: 196.89613
+    width: 140.88303
     height: 40
   tint: {r: 1, g: 0.7254902, b: 0.5921569, a: 1}
   useCustomTint: 1
   itemId: 7
-  blockName: Argh -> Player 3
+  blockName: Argh -> The Miz
   description: 
   eventHandler: {fileID: 1714546360}
   commandList:
@@ -5621,7 +5621,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 16
   indentLevel: 0
-  storyText: You want to match Argh with Buffy Hotty?
+  storyText: You want to match Argh with Tony?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5698,7 +5698,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 13
   indentLevel: 0
-  storyText: You want to match Argh with Player 3?
+  storyText: You want to match Argh with The Miz?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5750,14 +5750,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 961.57446
+    x: 960.22516
     y: -78.93372
-    width: 145.9011
+    width: 133.01813
     height: 40
   tint: {r: 1, g: 0.4328617, b: 0.36470592, a: 1}
   useCustomTint: 1
   itemId: 11
-  blockName: Argh and Player 2
+  blockName: Argh and Linda
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -5836,12 +5836,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1202.9994
     y: 114.1921
-    width: 162.64574
+    width: 130.39651
     height: 40
   tint: {r: 0.1924275, g: 0.7924528, b: 0.12335351, a: 1}
   useCustomTint: 1
   itemId: 19
-  blockName: Argh and Buffy Hotty
+  blockName: Argh and Tony
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -5994,7 +5994,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 32
   indentLevel: 0
-  storyText: You want to match Buffy Hotty with Argh?
+  storyText: You want to match Tony with Argh?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6023,12 +6023,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 460.23767
     y: 13.974899
-    width: 226.5798
+    width: 139.13525
     height: 40
   tint: {r: 0.7166631, g: 1, b: 0.6179246, a: 1}
   useCustomTint: 1
   itemId: 37
-  blockName: Buffy Hotty -> Argh
+  blockName: Tony -> Argh
   description: 
   eventHandler: {fileID: 1714546376}
   commandList:
@@ -6114,7 +6114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 28
   indentLevel: 0
-  storyText: You want to match Buffy Hotty with Player 3?
+  storyText: You want to match Tony with The Miz?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6143,12 +6143,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 462.88684
     y: -42.581024
-    width: 226.5798
+    width: 141.7569
     height: 40
   tint: {r: 1, g: 0.7254902, b: 0.5921569, a: 1}
   useCustomTint: 1
   itemId: 36
-  blockName: Buffy Hotty -> Player 3
+  blockName: Tony -> The Miz
   description: 
   eventHandler: {fileID: 1714546381}
   commandList:
@@ -6234,7 +6234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 24
   indentLevel: 0
-  storyText: You want to match Buffy Hotty with Player 2?
+  storyText: You want to match Tony with Linda?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6263,12 +6263,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 461.98767
     y: -96.040016
-    width: 226.5798
+    width: 139.13525
     height: 40
   tint: {r: 1, g: 0.7248058, b: 0.5896226, a: 1}
   useCustomTint: 1
   itemId: 35
-  blockName: Buffy Hotty -> Player 2
+  blockName: Tony -> Linda
   description: 
   eventHandler: {fileID: 1714546386}
   commandList:
@@ -6311,13 +6311,13 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 966.63983
-    y: -184.1124
-    width: 179.39038
+    y: -182.76308
+    width: 147.00014
     height: 40
   tint: {r: 1, g: 0.4328617, b: 0.36470592, a: 1}
   useCustomTint: 1
   itemId: 52
-  blockName: Buffy Hotty and Player 3
+  blockName: Tony and The Miz
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -6387,13 +6387,13 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1017.1023
-    y: -260.5307
-    width: 179.39038
+    y: -259.1814
+    width: 133.89201
     height: 40
   tint: {r: 1, g: 0.4328617, b: 0.36470592, a: 1}
   useCustomTint: 1
   itemId: 51
-  blockName: Buffy Hotty and Player 2
+  blockName: Tony and Linda
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -6443,12 +6443,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 949.9003
     y: -0.9825268
-    width: 145.9011
+    width: 146.12627
     height: 40
   tint: {r: 1, g: 0.4328617, b: 0.36470592, a: 1}
   useCustomTint: 1
   itemId: 50
-  blockName: Argh and Player 3
+  blockName: Argh and The Miz
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -6861,7 +6861,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 91
   indentLevel: 0
-  storyText: You want to match Player 3 with Player 2?
+  storyText: You want to match The Miz with Linda?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -6889,13 +6889,13 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 475.04504
-    y: -410.63858
-    width: 196.13501
+    y: -409.43555
+    width: 154.86502
     height: 40
   tint: {r: 0.7166631, g: 1, b: 0.6179246, a: 1}
   useCustomTint: 1
   itemId: 100
-  blockName: Player 3 -> Player 3 (Copy)
+  blockName: The Miz -> Linda
   description: 
   eventHandler: {fileID: 1714546411}
   commandList:
@@ -6981,7 +6981,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 87
   indentLevel: 0
-  storyText: You want to match Buffy Hotty with Player 3?
+  storyText: You want to match the Miz with Tony?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7010,12 +7010,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 454.40735
     y: -468.89572
-    width: 212.87965
+    width: 154.86502
     height: 40
   tint: {r: 1, g: 0.7254902, b: 0.5921569, a: 1}
   useCustomTint: 1
   itemId: 99
-  blockName: Player 3 -> Buffy Hotty (Copy)
+  blockName: The Miz -> Tony
   description: 
   eventHandler: {fileID: 1714546416}
   commandList:
@@ -7101,7 +7101,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 83
   indentLevel: 0
-  storyText: You want to match Buffy Hotty with Player 2?
+  storyText: You want to match The Miz with Argh?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7128,14 +7128,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 463.25784
-    y: -530.3383
-    width: 179.39038
+    x: 465.3887
+    y: -527.6218
+    width: 154.86502
     height: 40
   tint: {r: 1, g: 0.7248058, b: 0.5896226, a: 1}
   useCustomTint: 1
   itemId: 98
-  blockName: Player 3 -> Argh (Copy)
+  blockName: The Miz -> Argh
   description: 
   eventHandler: {fileID: 1714546421}
   commandList:
@@ -7224,12 +7224,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1182.1494
     y: -311.6546
-    width: 162.64574
+    width: 147.00014
     height: 40
   tint: {r: 0.1924275, g: 0.7924528, b: 0.12335351, a: 1}
   useCustomTint: 1
   itemId: 97
-  blockName: Player 2 and Player 3
+  blockName: Linda and the Miz
   description: 
   eventHandler: {fileID: 0}
   commandList:
@@ -7323,7 +7323,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 74
   indentLevel: 0
-  storyText: You want to match Player 2 with Player 3?
+  storyText: You want to match Linda with The Miz?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7352,12 +7352,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 473.46484
     y: -186.07916
-    width: 157.3179
+    width: 144.37851
     height: 40
   tint: {r: 0.7166631, g: 1, b: 0.6179246, a: 1}
   useCustomTint: 1
   itemId: 96
-  blockName: Player 2 -> Player 3
+  blockName: Linda -> The Miz
   description: 
   eventHandler: {fileID: 1714546431}
   commandList:
@@ -7443,7 +7443,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 70
   indentLevel: 0
-  storyText: You want to match Buffy Hotty with Player 3?
+  storyText: You want to match Linda with Tony?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7472,12 +7472,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 451.44995
     y: -244.33632
-    width: 206.02957
+    width: 141.7569
     height: 40
   tint: {r: 1, g: 0.7254902, b: 0.5921569, a: 1}
   useCustomTint: 1
   itemId: 95
-  blockName: Player 2 -> Buffy Hotty
+  blockName: Linda -> Tony
   description: 
   eventHandler: {fileID: 1714546436}
   commandList:
@@ -7563,7 +7563,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 66
   indentLevel: 0
-  storyText: You want to match Buffy Hotty with Player 2?
+  storyText: You want to match Linda with Argh?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -7592,12 +7592,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 462.15634
     y: -307.6348
-    width: 176.34589
+    width: 141.7569
     height: 40
   tint: {r: 1, g: 0.7248058, b: 0.5896226, a: 1}
   useCustomTint: 1
   itemId: 94
-  blockName: Player 2 -> Argh
+  blockName: Linda -> Argh
   description: 
   eventHandler: {fileID: 1714546441}
   commandList:
@@ -9367,7 +9367,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1714546497
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9394,7 +9394,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1714546498
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9458,7 +9458,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1714546499
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9485,7 +9485,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1714546500
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9640,7 +9640,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1714546503
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9667,7 +9667,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1714546504
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9700,7 +9700,7 @@ MonoBehaviour:
   - {fileID: 1714546503}
 --- !u!114 &1714546505
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9764,7 +9764,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1714546506
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9791,7 +9791,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1714546507
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9855,7 +9855,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1714546508
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9882,7 +9882,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1714546509
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9946,7 +9946,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1714546510
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9967,7 +9967,7 @@ MonoBehaviour:
   callMode: 0
 --- !u!114 &1714546511
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -9988,7 +9988,7 @@ MonoBehaviour:
   callMode: 0
 --- !u!114 &1714546512
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10009,7 +10009,7 @@ MonoBehaviour:
   callMode: 0
 --- !u!114 &1714546513
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10073,7 +10073,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1714546514
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10100,7 +10100,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1714546515
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10164,7 +10164,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1714546516
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10214,7 +10214,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1726086039}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.442205, y: 0.082987465, z: 0}
+  m_LocalPosition: {x: -2.5, y: 0, z: 0}
   m_LocalScale: {x: 0.40143448, y: 0.40143448, z: 0.40143448}
   m_Children: []
   m_Father: {fileID: 1041925393}
@@ -10258,7 +10258,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 98dba5995505c4c3a99f9c5e3a32d264, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1490dc3d1af09445cb9830b2db8cb9f0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -10280,7 +10280,7 @@ GameObject:
   - component: {fileID: 1794432138}
   - component: {fileID: 1794432139}
   m_Layer: 0
-  m_Name: Buffy Hotty table 1
+  m_Name: Tony table 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10338,7 +10338,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 903b5586ae16348e1800c8eb04b8e03a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 33699678450034a87baaf1501b1707c0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -10504,7 +10504,7 @@ GameObject:
   - component: {fileID: 1856850867}
   - component: {fileID: 1856850868}
   m_Layer: 0
-  m_Name: Buffy Hotty table 1 (1)
+  m_Name: Tony
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10518,7 +10518,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1856850866}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.38, y: 0.87, z: 0}
+  m_LocalPosition: {x: 2.66, y: 0.87, z: 0}
   m_LocalScale: {x: 0.77055347, y: 0.77055347, z: 0.77055347}
   m_Children: []
   m_Father: {fileID: 695425549}
@@ -10562,7 +10562,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 903b5586ae16348e1800c8eb04b8e03a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 33699678450034a87baaf1501b1707c0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -10583,7 +10583,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1931666668}
   m_Layer: 0
-  m_Name: Argh and Buffy
+  m_Name: Argh and Tony
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10597,7 +10597,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1931666666}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.29, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1225370749}
@@ -10696,7 +10696,7 @@ GameObject:
   - component: {fileID: 1948114024}
   - component: {fileID: 1948114025}
   m_Layer: 0
-  m_Name: P2
+  m_Name: Linda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10710,8 +10710,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1948114023}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.33, y: 0.11, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 2.38, y: 1.24, z: 0}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 1}
   m_Children: []
   m_Father: {fileID: 1135924994}
   m_RootOrder: 0
@@ -10754,7 +10754,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: ea8f56c43254d41728f5ac4e8299b6c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3eb515cbb42954d688d43920aee40bbc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -10813,7 +10813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -10878,7 +10878,7 @@ GameObject:
   - component: {fileID: 2084400274}
   - component: {fileID: 2084400273}
   m_Layer: 0
-  m_Name: Player 2
+  m_Name: Linda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10936,18 +10936,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.12259841, y: -0.14011246}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3, y: 3}
+    oldSize: {x: 3.78, y: 3.78}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3, y: 3}
+  m_Size: {x: 2.7548032, y: 3.7005625}
   m_EdgeRadius: 0
 --- !u!212 &2084400276
 SpriteRenderer:
@@ -10987,7 +10987,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: ea8f56c43254d41728f5ac4e8299b6c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 960fd0b1deb4845eca9f7160b2dae5f3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -11006,8 +11006,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2084400272}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.15999955, y: 2.2, z: 0}
-  m_LocalScale: {x: 0.89172, y: 0.89172, z: 0.89172}
+  m_LocalPosition: {x: -0.98, y: 2.2, z: 0}
+  m_LocalScale: {x: 0.8397506, y: 0.8397506, z: 0.8397506}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
