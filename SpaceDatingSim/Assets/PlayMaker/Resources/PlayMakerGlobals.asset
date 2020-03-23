@@ -20,7 +20,19 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 100
-    intVariables: []
+    intVariables:
+    - useVariable: 1
+      name: Hours
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 9
+    - useVariable: 1
+      name: Minutes
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     boolVariables:
     - useVariable: 1
       name: Argh_1
@@ -76,6 +88,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
+    - useVariable: 1
+      name: menu_is_open
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     stringVariables: []
     vector2Variables: []
     vector3Variables: []
@@ -96,6 +114,10 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - Close Menu
+  - Set text
+  - Clicked arrow
+  - Clicked right arrow
+  - Clicked left arrow

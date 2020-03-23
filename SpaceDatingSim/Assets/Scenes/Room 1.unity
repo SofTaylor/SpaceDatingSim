@@ -935,18 +935,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 913691316}
   m_CullTransparentMesh: 0
---- !u!114 &955938319 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1753672982458817664, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-    type: 3}
-  m_PrefabInstance: {fileID: 1299726416}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1384774831, guid: e743331561ef77147ae48cda9bcb8209, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1054205055
 GameObject:
   m_ObjectHideFlags: 0
@@ -1145,11 +1133,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 1753672982458817664, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: fsm.states.Array.data[1].actionData.unityObjectParams.Array.data[0]
-      value: 
-      objectReference: {fileID: 1635726455}
     - target: {fileID: 5794445367713549081, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1255,17 +1238,8 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7948315951828168024, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7690946907741352691, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7141401210199183097, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
 --- !u!1 &1346664882
 GameObject:
@@ -1387,6 +1361,7 @@ GameObject:
   - component: {fileID: 1635726453}
   - component: {fileID: 1635726485}
   - component: {fileID: 1635726486}
+  - component: {fileID: 1635726487}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1444,9 +1419,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 64.02231
-    y: -4.5013657
-    width: 146.92355
+    x: 62.783794
+    y: -3.3177743
+    width: 147.22333
     height: 40
   tint: {r: 0.9490197, g: 0.8313726, b: 0.18431373, a: 1}
   useCustomTint: 0
@@ -1488,8 +1463,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 67
-    y: 70
+    x: -226.52777
+    y: -3.0723114
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -1497,7 +1472,7 @@ MonoBehaviour:
   itemId: 0
   blockName: Block 1
   description: 
-  eventHandler: {fileID: 0}
+  eventHandler: {fileID: 1635726487}
   commandList: []
 --- !u!114 &1635726455
 MonoBehaviour:
@@ -1512,20 +1487,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 222.03606, y: 152.26802}
+  scrollPos: {x: 440.07935, y: 168.46408}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.9956301
+  zoom: 0.80741936
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1635726452}
-  selectedCommands: []
+  selectedBlocks: []
+  selectedCommands:
+  - {fileID: 1635726480}
   variables:
   - {fileID: 1635726478}
   - {fileID: 1635726468}
@@ -1681,7 +1656,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 226.99559
-    y: -32.481426
+    y: -31.481426
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -2259,7 +2234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 24
   indentLevel: 0
-  FSM: {fileID: 955938319}
+  FSM: {fileID: 0}
   destinationEvent: Time
 --- !u!114 &1635726481
 MonoBehaviour:
@@ -2275,7 +2250,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 26
   indentLevel: 0
-  FSM: {fileID: 955938319}
+  FSM: {fileID: 0}
   destinationEvent: Time
 --- !u!114 &1635726482
 MonoBehaviour:
@@ -2548,6 +2523,20 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &1635726487
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1635726449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 1635726454}
+  waitForFrames: 1
 --- !u!1 &1942849935
 GameObject:
   m_ObjectHideFlags: 0
