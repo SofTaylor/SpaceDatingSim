@@ -20,6 +20,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 100
+    - useVariable: 1
+      name: Speed
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
     intVariables:
     - useVariable: 1
       name: Hours
@@ -29,6 +35,36 @@ MonoBehaviour:
       value: 9
     - useVariable: 1
       name: Minutes
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: toRoom1
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: toRoom2
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: toRoom3
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: toRoom4
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: toRoom5
       tooltip: 
       showInInspector: 0
       networkSync: 0
@@ -114,7 +150,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - Close Menu
   - Set text
