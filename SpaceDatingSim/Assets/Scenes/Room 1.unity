@@ -1145,11 +1145,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 7052659777612667257, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5794445367713549081, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1255,8 +1250,7 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 7141401210199183097, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
 --- !u!1 &1346664882
 GameObject:
@@ -4007,6 +4001,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 392851564628921086, guid: dd2e43ec9b1f5407babcfe3253ed91c3,
+        type: 3}
+      propertyPath: fsm.states.Array.data[1].actionData.unityObjectParams.Array.data[0]
+      value: 
+      objectReference: {fileID: 1635726455}
     - target: {fileID: 392851564628921085, guid: dd2e43ec9b1f5407babcfe3253ed91c3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4062,11 +4061,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 392851564628921086, guid: dd2e43ec9b1f5407babcfe3253ed91c3,
-        type: 3}
-      propertyPath: fsm.states.Array.data[1].actionData.unityObjectParams.Array.data[0]
-      value: 
-      objectReference: {fileID: 1635726455}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd2e43ec9b1f5407babcfe3253ed91c3, type: 3}
 --- !u!1001 &7108518859303690624
