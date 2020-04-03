@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8863358080097378932}
   - component: {fileID: 4891153458661421329}
   m_Layer: 0
-  m_Name: The Miz
+  m_Name: The Niz
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -137,7 +137,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nameText: The Miz
+  nameText: The Niz
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:

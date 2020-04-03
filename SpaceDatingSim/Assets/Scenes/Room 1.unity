@@ -4643,7 +4643,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 518.20874, y: 640.44025}
+  scrollPos: {x: 1264.7191, y: 526.48706}
   variablesScrollPos: {x: 0, y: 18}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -4654,8 +4654,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1635726539}
+  selectedCommands:
+  - {fileID: 1635726538}
   variables:
   - {fileID: 1635726478}
   - {fileID: 1635726496}
@@ -7432,7 +7434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 40
   indentLevel: 0
-  storyText: Bye!
+  storyText: Later!
   description: 
   character: {fileID: 1114781862}
   portrait: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
@@ -9506,7 +9508,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 76
+  itemId: 226
   blockName: Post i have triyed the pizza
   description: 
   eventHandler: {fileID: 0}
@@ -9648,7 +9650,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 135
+  itemId: 227
   blockName: 'Post actually think '
   description: 
   eventHandler: {fileID: 0}
@@ -10410,7 +10412,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 120
+  itemId: 228
   blockName: Post Tony Q2 (2)
   description: 
   eventHandler: {fileID: 0}
