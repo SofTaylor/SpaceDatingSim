@@ -145,6 +145,10 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 22b079211534d4fcd860cf8404813939, type: 3}
   - {fileID: 21300000, guid: c9cc7ed2cf8604b3cb80aed558c2fedf, type: 3}
   - {fileID: 21300000, guid: 45f58905fd20644c8bc8c854e1184940, type: 3}
+  - {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
+  - {fileID: 21300000, guid: a3da3a9971af84c8f8cb946adf44541e, type: 3}
+  - {fileID: 21300000, guid: d3cd94d399ac74a1f9896409875e998c, type: 3}
+  - {fileID: 21300000, guid: 71934b3eafbc14ac6b60768e1a8ae64e, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
