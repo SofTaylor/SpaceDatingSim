@@ -4364,6 +4364,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3530024263831011258, guid: fd25924eee4c94b13afcf7dda2b837e2,
+        type: 3}
+      propertyPath: fsm.states.Array.data[0].position.x
+      value: 52
+      objectReference: {fileID: 0}
+    - target: {fileID: 3530024263831011258, guid: fd25924eee4c94b13afcf7dda2b837e2,
+        type: 3}
+      propertyPath: fsm.states.Array.data[1].position.x
+      value: 256
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd25924eee4c94b13afcf7dda2b837e2, type: 3}
 --- !u!114 &1114781860 stripped
@@ -5312,11 +5322,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Object_treadmill
       objectReference: {fileID: 0}
-    - target: {fileID: 8295839601846098167, guid: 9f0546b6577394a4b865d99aeb4dcaef,
-        type: 3}
-      propertyPath: fsm.states.Array.data[1].actionData.fsmBoolParams.Array.data[0].name
-      value: unlock_Argh_treadmill
-      objectReference: {fileID: 0}
     - target: {fileID: 7108518859174195704, guid: 9f0546b6577394a4b865d99aeb4dcaef,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5386,6 +5391,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.72214
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295839601846098167, guid: 9f0546b6577394a4b865d99aeb4dcaef,
+        type: 3}
+      propertyPath: fsm.states.Array.data[1].actionData.fsmBoolParams.Array.data[0].name
+      value: unlock_Argh_treadmill
       objectReference: {fileID: 0}
     - target: {fileID: 7108518859174195703, guid: 9f0546b6577394a4b865d99aeb4dcaef,
         type: 3}
@@ -6442,11 +6452,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1585.459, y: 831.34393}
+  scrollPos: {x: 2294.505, y: 967.965}
   variablesScrollPos: {x: 0, y: 94}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.49667394
+  zoom: 0.4871461
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -7119,7 +7129,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -103.80301
     y: 249.36069
-    width: 120.468765
+    width: 121.84703
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -7801,7 +7811,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 192.70856
     y: -39.50099
-    width: 148.65628
+    width: 149.55945
     height: 40
   tint: {r: 1, g: 0.78395545, b: 0.3160377, a: 1}
   useCustomTint: 1
@@ -9944,7 +9954,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 190.07716
     y: -263.92587
-    width: 142.61609
+    width: 141.34836
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10363,7 +10373,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 189.93275
     y: -304.08838
-    width: 121.475464
+    width: 121.84703
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12634,7 +12644,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -520.9003
     y: -453.87076
-    width: 139.59601
+    width: 139.2956
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13124,7 +13134,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -336.96246
     y: -448.72794
-    width: 143.62279
+    width: 142.37476
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13432,7 +13442,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -476.78036
     y: 56.470505
-    width: 186.91075
+    width: 187.53574
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13522,7 +13532,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -474.8937
     y: 7.4385834
-    width: 141.6094
+    width: 143.40114
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14314,7 +14324,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -349.77136
     y: -642.5906
-    width: 144.62949
+    width: 143.40114
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -14505,7 +14515,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -533.70935
     y: -645.75745
-    width: 140.60269
+    width: 141.34836
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16376,11 +16386,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Object_magazine
       objectReference: {fileID: 0}
-    - target: {fileID: 8295839601846098167, guid: 9f0546b6577394a4b865d99aeb4dcaef,
-        type: 3}
-      propertyPath: fsm.states.Array.data[1].actionData.fsmBoolParams.Array.data[0].name
-      value: unlock_Argh_magazine
-      objectReference: {fileID: 0}
     - target: {fileID: 7108518859174195704, guid: 9f0546b6577394a4b865d99aeb4dcaef,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16435,6 +16440,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 7.425
+      objectReference: {fileID: 0}
+    - target: {fileID: 8295839601846098167, guid: 9f0546b6577394a4b865d99aeb4dcaef,
+        type: 3}
+      propertyPath: fsm.states.Array.data[1].actionData.fsmBoolParams.Array.data[0].name
+      value: unlock_Argh_magazine
       objectReference: {fileID: 0}
     - target: {fileID: 7108518859174195703, guid: 9f0546b6577394a4b865d99aeb4dcaef,
         type: 3}
