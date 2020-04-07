@@ -430,61 +430,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VariablesManager
       objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.259579
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.2705011
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -5.2709746
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 16
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5488199668601341177, guid: 608390c33bf774e8dab55caf5488a7b2,
         type: 3}
       propertyPath: fsm.states.Array.data[1].actionData.actionNames.Array.size
@@ -954,6 +899,61 @@ PrefabInstance:
         type: 3}
       propertyPath: fsm.states.Array.data[1].actionData.actionIsOpen.Array.data[3]
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.259579
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.2705011
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.2709746
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 608390c33bf774e8dab55caf5488a7b2, type: 3}
@@ -6015,7 +6015,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1664.3977, y: -95.26037}
+  scrollPos: {x: 1230.2725, y: -77.019806}
   variablesScrollPos: {x: 0, y: 103}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -6026,8 +6026,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1635726502}
+  selectedCommands:
+  - {fileID: 1635726457}
   variables:
   - {fileID: 1635726451}
   - {fileID: 1635726450}
@@ -6120,7 +6122,7 @@ MonoBehaviour:
   itemId: 290
   indentLevel: 0
   storyText: "I\u2019m pretty sure everybody wants to be loved. Nothing to be ashamed
-    of\u2026 Wait. Your real name is Nando Zingaretti?!"
+    of\u2026 {w=0.1}Wait. Your real name is Nando Zingaretti?!"
   description: 
   character: {fileID: 574936330}
   portrait: {fileID: 0}
@@ -6147,7 +6149,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 289
   indentLevel: 0
-  storyText: "Ugh, it\u2019s even worse when I say it out loud."
+  storyText: "Ugh,{w=0.1} it\u2019s even worse when I say it out loud."
   description: 
   character: {fileID: 2087085007}
   portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
@@ -6201,8 +6203,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 287
   indentLevel: 0
-  storyText: "Hm. You remind me of myself. Well, it\u2019ll seem foolish, but I really
-    just want someone to love me, Nando Zingharetti. Not \u201CThe Niz\u201D. Me.\r\n"
+  storyText: "Hm. You remind me of myself. {w=0.1}Well, it\u2019ll seem foolish, but
+    I really just want someone to love me, Nando Zingharetti. Not \u201CThe Niz\u201D.
+    Me.\r\n"
   description: 
   character: {fileID: 2087085007}
   portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
@@ -6256,8 +6259,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 285
   indentLevel: 0
-  storyText: "I\u2026 thank you so much. I hope that what you say is true. I wish
-    I really made some people happy"
+  storyText: "I\u2026 thank you so much. I hope that what you say is true. {w=0.1}I
+    wish I really made some people happy"
   description: 
   character: {fileID: 2087085007}
   portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
@@ -6285,7 +6288,7 @@ MonoBehaviour:
   itemId: 284
   indentLevel: 0
   storyText: "You gave so much to charities, you helped so many kids, you have impacted
-    so many lives in a positive way. You should be proud.\r\n"
+    so many lives in a positive way. {w=0.1}You should be proud.\r\n"
   description: 
   character: {fileID: 574936330}
   portrait: {fileID: 0}
@@ -6676,7 +6679,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -519.66925
     y: 93.72679
-    width: 160.35542
+    width: 171.11734
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7399,7 +7402,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -456.09637
     y: -359.92432
-    width: 127.5224
+    width: 136.09546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -7740,7 +7743,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -632.3447
     y: -359.7053
-    width: 125.69835
+    width: 133.17697
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7865,7 +7868,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 34.27411
     y: 472.89273
-    width: 135.73065
+    width: 143.3917
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -7892,7 +7895,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 362
+  itemId: 395
   indentLevel: 0
   targetFlowchart: {fileID: 0}
   targetBlock: {fileID: 1635726624}
@@ -7913,7 +7916,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 361
+  itemId: 394
   indentLevel: 0
   variable: {fileID: 1635726669}
   setOperator: 0
@@ -9071,7 +9074,7 @@ MonoBehaviour:
   itemId: 80
   indentLevel: 0
   storyText: 'Your performance was outstanding! Do you have any leaks on Vindicator:
-    The Final Ending? Just between you and me?'
+    The Final Ending?{w=0.1} Just between you and me?'
   description: 
   character: {fileID: 574936330}
   portrait: {fileID: 0}
@@ -10404,7 +10407,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -510.04135
     y: 45.104923
-    width: 131.17052
+    width: 137.55472
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12102,7 +12105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 264
   indentLevel: 0
-  storyText: 'Before you ask:
+  storyText: '{w=0.1}Before you ask:
 
 '
   description: 
@@ -12205,8 +12208,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 279
   indentLevel: 0
-  storyText: "Fame doesn\x19t last forever. I should have seized the moment to have
-    the impact I wanted on the universe. "
+  storyText: "Fame doesn\x19t last forever. {w=0.1}I should have seized the moment
+    to have the impact I wanted on the universe. "
   description: 
   character: {fileID: 2087085007}
   portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
@@ -12721,7 +12724,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 35.82843
     y: 432.1426
-    width: 123.87429
+    width: 133.17697
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12945,7 +12948,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 34.369366
     y: 384.15378
-    width: 126.610374
+    width: 134.63623
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13085,7 +13088,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c28af75140c102a479ed8625905c4c45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 341
+  itemId: 393
   indentLevel: 0
   FSM: {fileID: 2067997434}
   destinationEvent: Set minutes
@@ -13169,7 +13172,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 34.186756
     y: 344.81012
-    width: 134.81863
+    width: 141.93243
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13217,7 +13220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 364
+  itemId: 392
   indentLevel: 0
   variable: {fileID: 1635726677}
   setOperator: 0
@@ -13407,7 +13410,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 34.377625
     y: 302.81723
-    width: 123.87429
+    width: 130.25848
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13841,7 +13844,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -759.9885
     y: 403.28424
-    width: 156.7073
+    width: 168.19885
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14011,7 +14014,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -747.5326
     y: 511.37042
-    width: 165.82759
+    width: 176.95433
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14181,7 +14184,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -747.1658
     y: 460.17413
-    width: 153.97122
+    width: 166.73962
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14351,7 +14354,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -750.3983
     y: 339.7715
-    width: 164.91556
+    width: 175.49509
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14521,7 +14524,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -747.3965
     y: 288.84106
-    width: 153.97122
+    width: 163.82112
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0

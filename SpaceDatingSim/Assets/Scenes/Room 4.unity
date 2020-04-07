@@ -1690,61 +1690,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: VariablesManager
       objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.259579
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -2.2705011
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -5.2709746
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 16
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5488199668601341177, guid: 608390c33bf774e8dab55caf5488a7b2,
         type: 3}
       propertyPath: fsm.states.Array.size
@@ -2299,6 +2244,61 @@ PrefabInstance:
         type: 3}
       propertyPath: fsm.states.Array.data[1].actionData.actionIsOpen.Array.data[4]
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.259579
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.2705011
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.2709746
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488199668601341126, guid: 608390c33bf774e8dab55caf5488a7b2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 608390c33bf774e8dab55caf5488a7b2, type: 3}
@@ -4245,7 +4245,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 240.26799
     y: 317.33948
-    width: 144.78561
+    width: 138.9212
     height: 40
   tint: {r: 1, g: 0.7311321, b: 0.88940704, a: 1}
   useCustomTint: 1
@@ -4547,8 +4547,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 178
   indentLevel: 0
-  storyText: But my favourite one is "Where do I belong?". I feel like it's about
-    me.
+  storyText: But my favourite one is "Where do I belong?".{w=0.1} I feel like it's
+    about me.
   description: 
   character: {fileID: 443688835}
   portrait: {fileID: 21300000, guid: 88de94f0aa853450da44907c7120ea8c, type: 3}
@@ -4687,7 +4687,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 357
   indentLevel: 0
-  storyText: I miss spending time with her.
+  storyText: '{w=0.1}I miss spending time with her.'
   description: 
   character: {fileID: 443688835}
   portrait: {fileID: 21300000, guid: 26c94426d2cfd42b5bbe4b093bf9588e, type: 3}
@@ -4823,7 +4823,7 @@ MonoBehaviour:
   itemId: 169
   indentLevel: 0
   storyText: 'You know, I have a tattoo of a song too: "Can help not falling in love",
-    by Pelvis Eresley. But it''s better if I don''t show it in public.'
+    by Pelvis Eresley.{w=0.1} But it''s better if I don''t show it in public.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5115,7 +5115,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 226
   indentLevel: 0
-  storyText: What about you?
+  storyText: '{w=0.1}What about you?'
   description: 
   character: {fileID: 443688835}
   portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
@@ -6047,7 +6047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 109
   indentLevel: 0
-  storyText: He's not here anymore. There's not much to say about him.
+  storyText: He's not here anymore. {w=0.1}There's not much to say about him.
   description: 
   character: {fileID: 443688835}
   portrait: {fileID: 21300000, guid: 26c94426d2cfd42b5bbe4b093bf9588e, type: 3}
@@ -6553,7 +6553,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 91
   indentLevel: 0
-  storyText: I could sum up mine with "daddy issues", then.
+  storyText: '{w=0.1}I could sum up mine with "daddy issues", then.'
   description: 
   character: {fileID: 443688835}
   portrait: {fileID: 21300000, guid: 88de94f0aa853450da44907c7120ea8c, type: 3}
@@ -6694,7 +6694,7 @@ MonoBehaviour:
   itemId: 84
   indentLevel: 0
   storyText: A mess! All my relationships ended badly. I've never been satisfied with
-    any of them. I hope your love life is better!
+    any of them.{w=0.1} I hope your love life is better!
   description: 
   character: {fileID: 443688835}
   portrait: {fileID: 21300000, guid: 3677b6ff89336455ab8a38641fe0bca4, type: 3}
@@ -7517,7 +7517,7 @@ MonoBehaviour:
   itemId: 49
   indentLevel: 0
   storyText: A very interesting question that I have no idea how to answer. I stopped
-    studying after high school. I don't even know how I ended up here.
+    studying after high school.{w=0.1} I don't even know how I ended up here.
   description: 
   character: {fileID: 474371694}
   portrait: {fileID: 0}
@@ -8450,7 +8450,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 22
   indentLevel: 0
-  storyText: Farewell.
+  storyText: Bye bye.
   description: 
   character: {fileID: 443688835}
   portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
@@ -8929,7 +8929,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.49588
     y: -35.37213
-    width: 120.24291
+    width: 120.83554
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -8951,23 +8951,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1395.4022, y: -281.6894}
+  scrollPos: {x: 1034.5414, y: -33.935158}
   variablesScrollPos: {x: 0, y: 162}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.59080696
+  zoom: 0.53080696
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1961712296}
-  - {fileID: 1961712292}
-  - {fileID: 1961712288}
-  - {fileID: 1961712284}
-  - {fileID: 1961712280}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 1961712083}
@@ -9037,7 +9032,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 225
   indentLevel: 0
-  storyText: I'd like to go there, one day.
+  storyText: '{w=0.1}I''d like to go there, one day.'
   description: 
   character: {fileID: 443688835}
   portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
@@ -9121,7 +9116,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 242.06142
     y: 361.24588
-    width: 144.78561
+    width: 141.93549
     height: 40
   tint: {r: 1, g: 0.7311321, b: 0.88940704, a: 1}
   useCustomTint: 1
@@ -9404,7 +9399,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -130.20322
     y: 45.918674
-    width: 187.10062
+    width: 179.61397
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10055,7 +10050,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -88.79647
     y: -442.71927
-    width: 146.47821
+    width: 143.44263
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10210,7 +10205,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -314.6775
     y: -456.06247
-    width: 143.93932
+    width: 140.42834
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11539,7 +11534,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -91.67475
     y: -322.3298
-    width: 120.24291
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12118,7 +12113,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.47455
     y: 633.2631
-    width: 126.16701
+    width: 120.83554
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12342,7 +12337,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.27094
     y: 664.3195
-    width: 137.16891
+    width: 131.38553
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12568,7 +12563,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 445.75568
     y: 592.0918
-    width: 128.7059
+    width: 123.84982
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12792,7 +12787,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 446.28918
     y: 552.1249
-    width: 135.47632
+    width: 129.87839
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13043,7 +13038,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.578
     y: 501.82037
-    width: 125.32071
+    width: 120.83554
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13764,7 +13759,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -354.75388
     y: 516.7897
-    width: 158.32642
+    width: 150.97833
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13934,7 +13929,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -342.29794
     y: 624.87585
-    width: 170.17462
+    width: 161.5283
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14104,7 +14099,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -341.93112
     y: 573.67957
-    width: 155.7875
+    width: 147.96405
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14274,7 +14269,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -345.16367
     y: 453.27695
-    width: 165.09682
+    width: 157.00688
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14444,7 +14439,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -342.16187
     y: 402.3465
-    width: 154.94122
+    width: 147.96405
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
