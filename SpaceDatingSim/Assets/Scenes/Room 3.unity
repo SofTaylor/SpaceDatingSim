@@ -9457,9 +9457,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 92
   indentLevel: 0
-  storyText: I remember a planet I visited years ago where the gravity is so high,
-    even I had difficulties jumping around! But man, I had never had such fast muscle
-    growth in my LIFE!
+  storyText: 'I remember a planet I visited years ago where the gravity is so high,
+    even I had difficulties jumping around! '
   description: 
   character: {fileID: 935927604}
   portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
@@ -9486,9 +9485,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 91
   indentLevel: 0
-  storyText: Is it Pillio? I visited it with my sister last year. She would have liked
-    you! I remember the deep-fried Nuna legs they made there; never eaten Nuna legs
-    that good before!
+  storyText: Is it Pillio? I visited it with my sister last year. {w=0.1}She would
+    have liked you! {w=0.1}I remember the deep-fried Nuna legs they made there; never
+    eaten Nuna legs that good before!
   description: 
   character: {fileID: 2068507398}
   portrait: {fileID: 0}
@@ -9515,7 +9514,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 93
   indentLevel: 0
-  storyText: But man, I had never had such fast muscle growth in my LIFE!
+  storyText: '{w=0.1}But man, I had never had such fast muscle growth in my LIFE!'
   description: 
   character: {fileID: 935927604}
   portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
@@ -10575,8 +10574,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 121
   indentLevel: 0
-  storyText: "Being with others, like, recharges my batteries. I\u2019d want to meet
-    all my partner\u2019s friends and have so many awesome adventures!\r\n"
+  storyText: "Being with others, like, recharges my batteries. {w=0.1}I\u2019d want
+    to meet all my partner\u2019s friends and have so many awesome adventures!\r\n"
   description: 
   character: {fileID: 935927604}
   portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
