@@ -71,6 +71,12 @@ MonoBehaviour:
       value: 0
     boolVariables:
     - useVariable: 1
+      name: Andras_question1
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    - useVariable: 1
       name: Argh_1
       tooltip: 
       showInInspector: 0
@@ -83,6 +89,18 @@ MonoBehaviour:
       networkSync: 0
       value: 0
     - useVariable: 1
+      name: Argh_question1
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    - useVariable: 1
+      name: Argh_question2
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    - useVariable: 1
       name: Linda 1
       tooltip: 
       showInInspector: 0
@@ -94,6 +112,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
+    - useVariable: 1
+      name: Linda_question1
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
     - useVariable: 1
       name: Matched
       tooltip: 
@@ -113,6 +137,12 @@ MonoBehaviour:
       networkSync: 0
       value: 0
     - useVariable: 1
+      name: TheNiz_question1
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    - useVariable: 1
       name: Tony_1
       tooltip: 
       showInInspector: 0
@@ -124,6 +154,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
+    - useVariable: 1
+      name: Tony_question1
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
     - useVariable: 1
       name: You_ate_the_pizza
       tooltip: 
@@ -150,12 +186,6 @@ MonoBehaviour:
       value: 0
     - useVariable: 1
       name: You_read_the_book
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: 0
-    - useVariable: 1
-      name: You_read_the_magazine
       tooltip: 
       showInInspector: 0
       networkSync: 0
@@ -264,7 +294,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - Close Menu
   - Set text
