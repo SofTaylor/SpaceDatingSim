@@ -1687,7 +1687,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 395.81348
     y: 166.69594
-    width: 127.28318
+    width: 124.08193
     height: 40
   tint: {r: 0.9622642, g: 0.6088564, b: 0.49474904, a: 1}
   useCustomTint: 1
@@ -2010,7 +2010,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 396.37518
+    x: 393.8029
     y: 202.19547
     width: 120
     height: 40
@@ -2151,7 +2151,7 @@ MonoBehaviour:
   itemId: 160
   indentLevel: 0
   storyText: '{i}Linda takes a deep breath, then whispers{/i}: I read those frankly
-    terrible and trashy romance novels in the Karmony series.'
+    terrible {w=0.1}and trashy romance novels in the Karmony series.'
   description: 
   character: {fileID: 1842505889}
   portrait: {fileID: 21300000, guid: d3cd94d399ac74a1f9896409875e998c, type: 3}
@@ -2286,8 +2286,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 168
   indentLevel: 0
-  storyText: You remind me of another person that was as busy as you... Aren't you
-    always tired?
+  storyText: You remind me of another person that was as busy as you... {w=0.1}Aren't
+    you always tired?
   description: 
   character: {fileID: 197772475}
   portrait: {fileID: 0}
@@ -2989,7 +2989,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 395.3684
     y: 50.31542
-    width: 125.19445
+    width: 122.0241
     height: 40
   tint: {r: 1, g: 0.7647059, b: 0.4, a: 1}
   useCustomTint: 1
@@ -3117,8 +3117,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 91
   indentLevel: 0
-  storyText: ' Even if it is scientifically demonstrated that taking time off is necessary
-    to work at peak performance.'
+  storyText: Even if it is scientifically demonstrated that taking time off is necessary
+    to work at peak performance.
   description: 
   character: {fileID: 1842505889}
   portrait: {fileID: 21300000, guid: a3da3a9971af84c8f8cb946adf44541e, type: 3}
@@ -3500,7 +3500,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 392.19125
     y: 11.312863
-    width: 124.15008
+    width: 120
     height: 40
   tint: {r: 1, g: 0.7649599, b: 0.4009434, a: 1}
   useCustomTint: 1
@@ -3538,7 +3538,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 173
   indentLevel: 0
-  storyText: I actually... Wait! I'm the one asking the questions here!
+  storyText: I actually... {w=0.1}Wait! I'm the one asking the questions here!
   description: 
   character: {fileID: 197772475}
   portrait: {fileID: 0}
@@ -5957,7 +5957,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.49588
     y: -35.37213
-    width: 122.06135
+    width: 122.0241
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -5979,24 +5979,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1281.7932, y: 87.155754}
+  scrollPos: {x: 1650.1555, y: 203.57501}
   variablesScrollPos: {x: 0, y: 184}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.47875875
+  zoom: 0.38875875
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 612009386}
-  - {fileID: 612009382}
-  - {fileID: 612009378}
-  - {fileID: 612009374}
-  - {fileID: 612009370}
-  selectedCommands: []
+  selectedBlocks: []
+  selectedCommands:
+  - {fileID: 612009208}
   variables:
   - {fileID: 612009150}
   - {fileID: 612009189}
@@ -6174,14 +6170,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 158
   indentLevel: 0
-  storyText: But sometimes a change is necessary to make life dynamic.
+  storyText: '{w=0.1}But sometimes a change is necessary to make life dynamic.'
   description: 
   character: {fileID: 1842505889}
   portrait: {fileID: 21300000, guid: a3da3a9971af84c8f8cb946adf44541e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
-  extendPrevious: 0
+  extendPrevious: 1
   fadeWhenDone: 1
   waitForClick: 1
   stopVoiceover: 1
@@ -6585,8 +6581,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 180
   indentLevel: 0
-  storyText: 'I try to do that when I have time: just spend some time watching the
-    view outside.'
+  storyText: I try to do that when I have time:{w=0.1} just spend some time watching
+    the view outside.
   description: 
   character: {fileID: 1842505889}
   portrait: {fileID: 21300000, guid: 960fd0b1deb4845eca9f7160b2dae5f3, type: 3}
@@ -6886,14 +6882,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 194
   indentLevel: 0
-  storyText: '...Well, I try to do that to the best of my capabilities, at least.'
+  storyText: '{w=0.1}...Well, I try to do that to the best of my capabilities, at
+    least.'
   description: 
   character: {fileID: 1842505889}
   portrait: {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
-  extendPrevious: 0
+  extendPrevious: 1
   fadeWhenDone: 1
   waitForClick: 1
   stopVoiceover: 1
@@ -7161,7 +7158,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 203
   indentLevel: 0
-  storyText: I actually didn't like it that much. After a while, I felt very alone.
+  storyText: I actually didn't like it that much.{w=0.1} After a while, I felt very
+    alone.
   description: 
   character: {fileID: 197772475}
   portrait: {fileID: 0}
@@ -7549,7 +7547,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -106.71234
     y: 92.50983
-    width: 165.92477
+    width: 163.18073
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7639,7 +7637,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -107.9778
     y: 51.293793
-    width: 148.17053
+    width: 144.66025
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7665,7 +7663,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -257.46286
     y: -538.14954
-    width: 127.28318
+    width: 124.08193
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -8328,7 +8326,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -441.401
     y: -545.5842
-    width: 125.19445
+    width: 122.0241
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8959,7 +8957,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -244.65396
     y: -354.95633
-    width: 122.06135
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9168,7 +9166,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.7259
     y: -355.83145
-    width: 121.016975
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9360,7 +9358,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 415.84387
     y: 550.3081
-    width: 137.72685
+    width: 132.31326
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9775,7 +9773,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 417.3982
     y: 509.55786
-    width: 138.77122
+    width: 132.31326
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10000,7 +9998,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.125
     y: 469.19177
-    width: 127.28318
+    width: 122.0241
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10048,7 +10046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 341
+  itemId: 396
   indentLevel: 0
   variable: {fileID: 612009351}
   setOperator: 0
@@ -10112,7 +10110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 363
+  itemId: 395
   indentLevel: 0
   storyText: Yes, I have had more than one Koquo patients. They are an interesting
     species.
@@ -10140,7 +10138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c28af75140c102a479ed8625905c4c45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 362
+  itemId: 394
   indentLevel: 0
   FSM: {fileID: 1472441226}
   destinationEvent: Set minutes
@@ -10156,7 +10154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 361
+  itemId: 393
   indentLevel: 0
   variable: {fileID: 612009150}
   setOperator: 2
@@ -10224,7 +10222,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.65857
     y: 425.13742
-    width: 136.6825
+    width: 130.25543
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10476,7 +10474,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.60358
     y: 375.8718
-    width: 126.238815
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10504,7 +10502,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 841589fc622bc494aa5405f416fa1301, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 364
+  itemId: 397
   indentLevel: 0
   text: Do you like outdoors activities? (5 min)
   description: 
@@ -10877,7 +10875,7 @@ MonoBehaviour:
   value: 0
 --- !u!114 &612009362
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10941,7 +10939,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &612009363
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11005,7 +11003,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &612009364
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11069,7 +11067,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &612009365
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11133,7 +11131,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &612009366
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11354,7 +11352,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.21844
     y: 431.33914
-    width: 168.01352
+    width: 161.1229
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11524,7 +11522,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -182.38104
     y: 382.01346
-    width: 172.19098
+    width: 165.23856
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11694,7 +11692,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -182.01422
     y: 330.81726
-    width: 157.56982
+    width: 150.83374
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11864,7 +11862,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -185.24677
     y: 267.96307
-    width: 166.96915
+    width: 159.06506
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12034,7 +12032,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -183.93756
     y: 217.03261
-    width: 156.52547
+    width: 148.77591
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12532,11 +12530,6 @@ PrefabInstance:
       propertyPath: fsm.states.Array.data[1].actionData.unityObjectParams.Array.data[0]
       value: 
       objectReference: {fileID: 612009202}
-    - target: {fileID: 7743800186167233694, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1499880256, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
       propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
       value: 
@@ -12582,6 +12575,11 @@ PrefabInstance:
     - target: {fileID: 7690946907741352691, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7743800186167233694, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
