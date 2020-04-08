@@ -776,6 +776,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1089d5761b6074734867932e51776ec2, type: 3}
+--- !u!114 &265197178 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8863358080097378932, guid: 1089d5761b6074734867932e51776ec2,
+    type: 3}
+  m_PrefabInstance: {fileID: 265197177}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &327974684
 GameObject:
   m_ObjectHideFlags: 0
@@ -2869,7 +2881,6 @@ GameObject:
   - component: {fileID: 1246196350}
   - component: {fileID: 1246196349}
   - component: {fileID: 1246196348}
-  - component: {fileID: 1246196347}
   - component: {fileID: 1246196346}
   - component: {fileID: 1246196345}
   - component: {fileID: 1246196344}
@@ -2900,12 +2911,6 @@ GameObject:
   - component: {fileID: 1246196061}
   - component: {fileID: 1246196060}
   - component: {fileID: 1246196059}
-  - component: {fileID: 1246196375}
-  - component: {fileID: 1246196374}
-  - component: {fileID: 1246196373}
-  - component: {fileID: 1246196372}
-  - component: {fileID: 1246196371}
-  - component: {fileID: 1246196369}
   - component: {fileID: 1246196076}
   - component: {fileID: 1246196383}
   - component: {fileID: 1246196382}
@@ -2915,6 +2920,112 @@ GameObject:
   - component: {fileID: 1246196378}
   - component: {fileID: 1246196377}
   - component: {fileID: 1246196376}
+  - component: {fileID: 1246196405}
+  - component: {fileID: 1246196404}
+  - component: {fileID: 1246196403}
+  - component: {fileID: 1246196402}
+  - component: {fileID: 1246196401}
+  - component: {fileID: 1246196400}
+  - component: {fileID: 1246196399}
+  - component: {fileID: 1246196398}
+  - component: {fileID: 1246196397}
+  - component: {fileID: 1246196396}
+  - component: {fileID: 1246196395}
+  - component: {fileID: 1246196394}
+  - component: {fileID: 1246196393}
+  - component: {fileID: 1246196392}
+  - component: {fileID: 1246196391}
+  - component: {fileID: 1246196347}
+  - component: {fileID: 1246196439}
+  - component: {fileID: 1246196438}
+  - component: {fileID: 1246196437}
+  - component: {fileID: 1246196436}
+  - component: {fileID: 1246196435}
+  - component: {fileID: 1246196434}
+  - component: {fileID: 1246196433}
+  - component: {fileID: 1246196432}
+  - component: {fileID: 1246196431}
+  - component: {fileID: 1246196430}
+  - component: {fileID: 1246196429}
+  - component: {fileID: 1246196428}
+  - component: {fileID: 1246196427}
+  - component: {fileID: 1246196426}
+  - component: {fileID: 1246196425}
+  - component: {fileID: 1246196424}
+  - component: {fileID: 1246196423}
+  - component: {fileID: 1246196422}
+  - component: {fileID: 1246196421}
+  - component: {fileID: 1246196420}
+  - component: {fileID: 1246196419}
+  - component: {fileID: 1246196418}
+  - component: {fileID: 1246196417}
+  - component: {fileID: 1246196416}
+  - component: {fileID: 1246196415}
+  - component: {fileID: 1246196414}
+  - component: {fileID: 1246196413}
+  - component: {fileID: 1246196412}
+  - component: {fileID: 1246196411}
+  - component: {fileID: 1246196410}
+  - component: {fileID: 1246196409}
+  - component: {fileID: 1246196408}
+  - component: {fileID: 1246196407}
+  - component: {fileID: 1246196406}
+  - component: {fileID: 1246196375}
+  - component: {fileID: 1246196374}
+  - component: {fileID: 1246196493}
+  - component: {fileID: 1246196492}
+  - component: {fileID: 1246196491}
+  - component: {fileID: 1246196490}
+  - component: {fileID: 1246196489}
+  - component: {fileID: 1246196488}
+  - component: {fileID: 1246196487}
+  - component: {fileID: 1246196486}
+  - component: {fileID: 1246196485}
+  - component: {fileID: 1246196484}
+  - component: {fileID: 1246196483}
+  - component: {fileID: 1246196482}
+  - component: {fileID: 1246196481}
+  - component: {fileID: 1246196480}
+  - component: {fileID: 1246196479}
+  - component: {fileID: 1246196478}
+  - component: {fileID: 1246196477}
+  - component: {fileID: 1246196476}
+  - component: {fileID: 1246196475}
+  - component: {fileID: 1246196474}
+  - component: {fileID: 1246196473}
+  - component: {fileID: 1246196472}
+  - component: {fileID: 1246196471}
+  - component: {fileID: 1246196470}
+  - component: {fileID: 1246196469}
+  - component: {fileID: 1246196468}
+  - component: {fileID: 1246196467}
+  - component: {fileID: 1246196466}
+  - component: {fileID: 1246196465}
+  - component: {fileID: 1246196464}
+  - component: {fileID: 1246196463}
+  - component: {fileID: 1246196462}
+  - component: {fileID: 1246196461}
+  - component: {fileID: 1246196460}
+  - component: {fileID: 1246196459}
+  - component: {fileID: 1246196458}
+  - component: {fileID: 1246196457}
+  - component: {fileID: 1246196456}
+  - component: {fileID: 1246196455}
+  - component: {fileID: 1246196454}
+  - component: {fileID: 1246196453}
+  - component: {fileID: 1246196452}
+  - component: {fileID: 1246196451}
+  - component: {fileID: 1246196450}
+  - component: {fileID: 1246196449}
+  - component: {fileID: 1246196448}
+  - component: {fileID: 1246196447}
+  - component: {fileID: 1246196446}
+  - component: {fileID: 1246196445}
+  - component: {fileID: 1246196444}
+  - component: {fileID: 1246196443}
+  - component: {fileID: 1246196442}
+  - component: {fileID: 1246196441}
+  - component: {fileID: 1246196440}
   - component: {fileID: 1246196390}
   - component: {fileID: 1246196389}
   - component: {fileID: 1246196388}
@@ -2922,7 +3033,11 @@ GameObject:
   - component: {fileID: 1246196386}
   - component: {fileID: 1246196385}
   - component: {fileID: 1246196384}
+  - component: {fileID: 1246196373}
+  - component: {fileID: 1246196372}
+  - component: {fileID: 1246196371}
   - component: {fileID: 1246196370}
+  - component: {fileID: 1246196369}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3084,7 +3199,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1540.4813
     y: -655.0444
-    width: 155.53156
+    width: 163.73816
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3111,7 +3226,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1540.1732
     y: -699.339
-    width: 143.88197
+    width: 152.15372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3121,6 +3236,13 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1246196052}
+  - {fileID: 1246196442}
+  - {fileID: 1246196441}
+  - {fileID: 1246196440}
+  - {fileID: 1246196390}
+  - {fileID: 1246196389}
+  - {fileID: 1246196388}
+  - {fileID: 1246196387}
   - {fileID: 1246196061}
 --- !u!114 &1246196045
 MonoBehaviour:
@@ -3138,7 +3260,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1541.2358
     y: -747.4491
-    width: 147.30832
+    width: 155.31311
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3151,6 +3273,7 @@ MonoBehaviour:
   - {fileID: 1246196382}
   - {fileID: 1246196379}
   - {fileID: 1246196380}
+  - {fileID: 1246196452}
   - {fileID: 1246196381}
   - {fileID: 1246196377}
   - {fileID: 1246196378}
@@ -3172,7 +3295,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1538.0428
     y: -789.7353
-    width: 140.45563
+    width: 148.99432
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3182,6 +3305,13 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1246196054}
+  - {fileID: 1246196467}
+  - {fileID: 1246196466}
+  - {fileID: 1246196465}
+  - {fileID: 1246196464}
+  - {fileID: 1246196463}
+  - {fileID: 1246196462}
+  - {fileID: 1246196461}
   - {fileID: 1246196063}
 --- !u!114 &1246196047
 MonoBehaviour:
@@ -3214,7 +3344,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 488.33548
     y: -641.72815
-    width: 167.86642
+    width: 174.26947
     height: 40
   tint: {r: 0.754717, g: 0.6146909, b: 0.5446778, a: 1}
   useCustomTint: 1
@@ -3311,7 +3441,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 495
   indentLevel: 0
-  storyText: Linda and Andras
+  storyText: '{b}Linda and Andras{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3338,7 +3468,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 494
   indentLevel: 0
-  storyText: Linda and The Niz
+  storyText: '{b}Linda and The Niz{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3365,7 +3495,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 493
   indentLevel: 0
-  storyText: Tony and Andras
+  storyText: '{b}Tony and Andras{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3392,7 +3522,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 492
   indentLevel: 0
-  storyText: Tony and The Niz
+  storyText: '{b}Tony and The Niz{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3419,7 +3549,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 491
   indentLevel: 0
-  storyText: Tony and Linda
+  storyText: '{b}Tony and Linda{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3446,7 +3576,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 490
   indentLevel: 0
-  storyText: Argh and Andras
+  storyText: '{b}Argh and Andras{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3473,7 +3603,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 489
   indentLevel: 0
-  storyText: Argh and The Niz
+  storyText: '{b}Argh and The Niz{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3718,7 +3848,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1537.735
     y: -832.1504
-    width: 143.88197
+    width: 152.15372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3728,6 +3858,14 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1246196055}
+  - {fileID: 1246196486}
+  - {fileID: 1246196483}
+  - {fileID: 1246196482}
+  - {fileID: 1246196481}
+  - {fileID: 1246196480}
+  - {fileID: 1246196479}
+  - {fileID: 1246196478}
+  - {fileID: 1246196477}
   - {fileID: 1246196064}
 --- !u!114 &1246196070
 MonoBehaviour:
@@ -3743,9 +3881,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1537.2604
+    x: 1535.8899
     y: -877.0273
-    width: 132.23239
+    width: 140.56927
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3755,6 +3893,13 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1246196056}
+  - {fileID: 1246196409}
+  - {fileID: 1246196408}
+  - {fileID: 1246196407}
+  - {fileID: 1246196406}
+  - {fileID: 1246196375}
+  - {fileID: 1246196374}
+  - {fileID: 1246196485}
   - {fileID: 1246196065}
 --- !u!114 &1246196071
 MonoBehaviour:
@@ -3770,9 +3915,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1537.6915
-    y: -918.8655
-    width: 140.45563
+    x: 1528.098
+    y: -927.0888
+    width: 146.88806
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3782,6 +3927,13 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1246196057}
+  - {fileID: 1246196424}
+  - {fileID: 1246196423}
+  - {fileID: 1246196422}
+  - {fileID: 1246196421}
+  - {fileID: 1246196420}
+  - {fileID: 1246196419}
+  - {fileID: 1246196418}
   - {fileID: 1246196066}
 --- !u!114 &1246196072
 MonoBehaviour:
@@ -3797,9 +3949,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1537.2411
-    y: -963.82947
-    width: 143.88197
+    x: 1530.3884
+    y: -977.5349
+    width: 150.04745
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3809,6 +3961,13 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1246196058}
+  - {fileID: 1246196439}
+  - {fileID: 1246196438}
+  - {fileID: 1246196437}
+  - {fileID: 1246196436}
+  - {fileID: 1246196435}
+  - {fileID: 1246196434}
+  - {fileID: 1246196433}
   - {fileID: 1246196067}
 --- !u!114 &1246196073
 MonoBehaviour:
@@ -3825,8 +3984,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 1537.7103
-    y: -1008.79333
-    width: 132.23239
+    y: -1022.4988
+    width: 138.46301
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -3836,6 +3995,13 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1246196359}
+  - {fileID: 1246196403}
+  - {fileID: 1246196404}
+  - {fileID: 1246196402}
+  - {fileID: 1246196401}
+  - {fileID: 1246196400}
+  - {fileID: 1246196399}
+  - {fileID: 1246196398}
   - {fileID: 1246196068}
 --- !u!114 &1246196074
 MonoBehaviour:
@@ -3851,9 +4017,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1537.2421
-    y: -1048.3539
-    width: 128.80603
+    x: 1545.4653
+    y: -1067.5414
+    width: 135.30362
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -4030,7 +4196,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 182.29462
     y: -712.68085
-    width: 120
+    width: 128.98483
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5747,7 +5913,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 684.60614
     y: -1042.0427
-    width: 152.79048
+    width: 159.52563
     height: 40
   tint: {r: 0.84313726, g: 0.70980394, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -5833,7 +5999,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 682.8979
     y: -1085.2086
-    width: 152.79048
+    width: 159.52563
     height: 40
   tint: {r: 0.8407328, g: 0.70598966, b: 0.8962264, a: 1}
   useCustomTint: 1
@@ -5919,7 +6085,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 686.3766
     y: -932.6139
-    width: 152.79048
+    width: 157.41937
     height: 40
   tint: {r: 1, g: 0.627451, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -6175,7 +6341,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 686.08575
     y: -976.5424
-    width: 152.79048
+    width: 157.41937
     height: 40
   tint: {r: 1, g: 0.627451, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -6261,7 +6427,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 688.2952
     y: -825.07776
-    width: 156.21683
+    width: 162.68503
     height: 40
   tint: {r: 0.5647059, g: 0.7882353, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -6347,7 +6513,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.0692
     y: -866.49207
-    width: 156.21683
+    width: 162.68503
     height: 40
   tint: {r: 0.5647059, g: 0.7882353, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -6433,7 +6599,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.2621
     y: -716.5268
-    width: 164.44006
+    width: 171.11008
     height: 40
   tint: {r: 1, g: 0.9647059, b: 0.5896226, a: 1}
   useCustomTint: 1
@@ -7286,7 +7452,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.8074
     y: -757.61743
-    width: 164.44006
+    width: 171.11008
     height: 40
   tint: {r: 1, g: 0.9647059, b: 0.5896226, a: 1}
   useCustomTint: 1
@@ -7372,7 +7538,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.15216
     y: -603.0023
-    width: 167.86642
+    width: 174.26947
     height: 40
   tint: {r: 0.75686276, g: 0.6156863, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -7458,7 +7624,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.69745
     y: -642.7553
-    width: 167.86642
+    width: 174.26947
     height: 40
   tint: {r: 0.75686276, g: 0.6156863, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -9023,7 +9189,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 935.78345
     y: -845.977
-    width: 120
+    width: 124.77231
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9050,20 +9216,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -1117.3962, y: 964.9314}
+  scrollPos: {x: -965.4269, y: 1061.1554}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.72963953
+  zoom: 0.7596395
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 1246196043}
   selectedCommands:
-  - {fileID: 1246196390}
+  - {fileID: 1246196051}
   variables:
   - {fileID: 1246196245}
   - {fileID: 1246196244}
@@ -9190,7 +9357,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 487.90012
     y: -714.162
-    width: 164.44006
+    width: 171.11008
     height: 40
   tint: {r: 1, g: 0.9647059, b: 0.5896226, a: 1}
   useCustomTint: 1
@@ -9276,7 +9443,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 488.4454
     y: -755.2526
-    width: 164.44006
+    width: 171.11008
     height: 40
   tint: {r: 1, g: 0.9617802, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -9362,7 +9529,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 487.7902
     y: -600.6375
-    width: 167.86642
+    width: 174.26947
     height: 40
   tint: {r: 0.75686276, g: 0.6156863, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -9448,7 +9615,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 489.67615
     y: -823.82263
-    width: 156.21683
+    width: 162.68503
     height: 40
   tint: {r: 0.5647059, g: 0.7882353, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -9534,7 +9701,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 487.70724
     y: -864.12726
-    width: 156.21683
+    width: 162.68503
     height: 40
   tint: {r: 0.56225526, g: 0.78499675, b: 0.8962264, a: 1}
   useCustomTint: 1
@@ -9620,7 +9787,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 490.39798
     y: -931.3588
-    width: 152.79048
+    width: 157.41937
     height: 40
   tint: {r: 1, g: 0.627451, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -9706,7 +9873,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 488.7238
     y: -974.1776
-    width: 152.79048
+    width: 157.41937
     height: 40
   tint: {r: 1, g: 0.62571025, b: 0.5424528, a: 1}
   useCustomTint: 1
@@ -9792,7 +9959,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 485.35083
     y: -1037.0303
-    width: 152.79048
+    width: 159.52563
     height: 40
   tint: {r: 0.84313726, g: 0.70980394, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -9878,7 +10045,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 489.07175
     y: -1086.3076
-    width: 152.79048
+    width: 159.52563
     height: 40
   tint: {r: 0.84313726, g: 0.70980394, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -11284,7 +11451,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1113.3765
     y: -846.9393
-    width: 128.80603
+    width: 136.35675
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11321,7 +11488,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2216.2854
     y: -658.13525
-    width: 165.81061
+    width: 175.3226
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13264,7 +13431,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1765.736
     y: -852.9221
-    width: 128.80603
+    width: 136.35675
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13673,7 +13840,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2215.9773
     y: -702.4298
-    width: 154.16103
+    width: 163.73816
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13682,6 +13849,13 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1246196386}
+  - {fileID: 1246196385}
+  - {fileID: 1246196384}
+  - {fileID: 1246196373}
+  - {fileID: 1246196372}
+  - {fileID: 1246196371}
+  - {fileID: 1246196370}
   - {fileID: 1246196369}
 --- !u!114 &1246196341
 MonoBehaviour:
@@ -13699,7 +13873,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2215.6694
     y: -750.5399
-    width: 157.58737
+    width: 166.89755
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13708,14 +13882,15 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1246196390}
-  - {fileID: 1246196389}
-  - {fileID: 1246196388}
-  - {fileID: 1246196387}
-  - {fileID: 1246196386}
-  - {fileID: 1246196385}
-  - {fileID: 1246196384}
-  - {fileID: 1246196370}
+  - {fileID: 1246196451}
+  - {fileID: 1246196450}
+  - {fileID: 1246196449}
+  - {fileID: 1246196448}
+  - {fileID: 1246196447}
+  - {fileID: 1246196446}
+  - {fileID: 1246196445}
+  - {fileID: 1246196444}
+  - {fileID: 1246196443}
 --- !u!114 &1246196342
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -13732,7 +13907,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2213.847
     y: -794.4701
-    width: 150.73468
+    width: 160.57877
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13741,7 +13916,14 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1246196371}
+  - {fileID: 1246196460}
+  - {fileID: 1246196459}
+  - {fileID: 1246196458}
+  - {fileID: 1246196457}
+  - {fileID: 1246196456}
+  - {fileID: 1246196455}
+  - {fileID: 1246196454}
+  - {fileID: 1246196453}
 --- !u!114 &1246196343
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -13758,7 +13940,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2213.539
     y: -836.8854
-    width: 154.16103
+    width: 163.73816
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13767,7 +13949,15 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1246196372}
+  - {fileID: 1246196476}
+  - {fileID: 1246196475}
+  - {fileID: 1246196474}
+  - {fileID: 1246196473}
+  - {fileID: 1246196472}
+  - {fileID: 1246196471}
+  - {fileID: 1246196470}
+  - {fileID: 1246196469}
+  - {fileID: 1246196468}
 --- !u!114 &1246196344
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -13784,7 +13974,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2213.0645
     y: -880.1184
-    width: 142.51144
+    width: 152.15372
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13793,7 +13983,14 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1246196373}
+  - {fileID: 1246196493}
+  - {fileID: 1246196492}
+  - {fileID: 1246196491}
+  - {fileID: 1246196490}
+  - {fileID: 1246196489}
+  - {fileID: 1246196488}
+  - {fileID: 1246196487}
+  - {fileID: 1246196484}
 --- !u!114 &1246196345
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -13808,9 +14005,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 2213.4956
-    y: -921.95654
-    width: 150.73468
+    x: 2208.0137
+    y: -931.5503
+    width: 158.4725
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13819,7 +14016,14 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1246196374}
+  - {fileID: 1246196417}
+  - {fileID: 1246196416}
+  - {fileID: 1246196415}
+  - {fileID: 1246196414}
+  - {fileID: 1246196413}
+  - {fileID: 1246196412}
+  - {fileID: 1246196411}
+  - {fileID: 1246196410}
 --- !u!114 &1246196346
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -13834,9 +14038,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 2213.0452
-    y: -966.92065
-    width: 154.16103
+    x: 2208.9336
+    y: -980.62604
+    width: 161.6319
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13845,10 +14049,17 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 1246196375}
+  - {fileID: 1246196432}
+  - {fileID: 1246196431}
+  - {fileID: 1246196430}
+  - {fileID: 1246196429}
+  - {fileID: 1246196428}
+  - {fileID: 1246196427}
+  - {fileID: 1246196426}
+  - {fileID: 1246196425}
 --- !u!114 &1246196347
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -13858,9 +14069,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 458
+  itemId: 553
   indentLevel: 0
-  storyText: Argh and Linda
+  storyText: "{b}Linda analyses Argh for the whole dinner. He\u2019s a little bit
+    weirded out.{/b}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -13887,9 +14099,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 2213.5144
-    y: -1013.6604
-    width: 142.51144
+    x: 2210.7734
+    y: -1024.6248
+    width: 150.04745
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13898,6 +14110,13 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1246196397}
+  - {fileID: 1246196396}
+  - {fileID: 1246196395}
+  - {fileID: 1246196394}
+  - {fileID: 1246196393}
+  - {fileID: 1246196392}
+  - {fileID: 1246196391}
   - {fileID: 1246196347}
 --- !u!114 &1246196349
 MonoBehaviour:
@@ -13913,8 +14132,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 456
   indentLevel: 0
-  storyText: Argh and Tony spend the whole dinner laughing and talking excitedly about
-    everything.
+  storyText: '{b}Argh and Tony spend the whole dinner laughing and talking excitedly
+    about everything.{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14158,9 +14377,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 2213.0461
-    y: -1054.9979
-    width: 139.08508
+    x: 2214.4165
+    y: -1070.0737
+    width: 146.88806
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -14169,6 +14388,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 1246196405}
   - {fileID: 1246196357}
   - {fileID: 1246196356}
   - {fileID: 1246196355}
@@ -14192,7 +14412,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 446
   indentLevel: 0
-  storyText: Argh and Linda
+  storyText: '{b}Argh and Linda{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14355,8 +14575,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 440
   indentLevel: 0
-  storyText: Argh and Tony spend the whole dinner laughing and talking excitedly about
-    everything.
+  storyText: '{b}Argh and Tony spend the whole dinner laughing and talking excitedly
+    about everything.{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14437,7 +14657,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 437
   indentLevel: 0
-  storyText: Argh and Tony
+  storyText: '{b}Argh and Tony{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14452,7 +14672,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1246196369
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14462,9 +14682,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 516
+  itemId: 655
   indentLevel: 0
-  storyText: Linda and Andras
+  storyText: "{b}The dinner is pleasant. Linda and Andras talk about interesting things
+    in very formal tones. They don\u2019t talk at all about their private lives.\r{/b}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14479,7 +14700,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1246196370
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14489,13 +14710,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 533
+  itemId: 654
   indentLevel: 0
-  storyText: The dinner goes splendidly. They are obviously already enamored with
-    each other.
+  storyText: Well...
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: 45f58905fd20644c8bc8c854e1184940, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14507,7 +14727,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1246196371
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14517,12 +14737,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 514
+  itemId: 653
   indentLevel: 0
-  storyText: Tony and Andras
+  storyText: Why not? Are you not good with people?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14534,7 +14754,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1246196372
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14544,12 +14764,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 513
+  itemId: 652
   indentLevel: 0
-  storyText: Tony and The Niz
+  storyText: "Trust me, you do not need to be good at \u201Cgetting people\u201D to
+    be a good psychologist."
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: a3da3a9971af84c8f8cb946adf44541e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14561,7 +14782,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1246196373
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14571,12 +14792,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 512
+  itemId: 651
   indentLevel: 0
-  storyText: Tony and Linda
+  storyText: "Fewer things to study and it is easier. Also, I don\u2019t get people
+    that much, you know?\r\n"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 88de94f0aa853450da44907c7120ea8c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14588,7 +14810,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1246196374
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14598,12 +14820,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 511
+  itemId: 589
   indentLevel: 0
-  storyText: Argh and Andras
+  storyText: "{i}Linda and the waiter share a look of bewilderment.{/i}.\r"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: 22b079211534d4fcd860cf8404813939, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14615,7 +14837,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1246196375
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14625,12 +14847,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 510
+  itemId: 588
   indentLevel: 0
-  storyText: Argh and The Niz
+  storyText: "You were supposed to say: \x1CNo, sir, it will be round!\x1D {i}Tony
+    laughs awkwardly{/i}.\r"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14654,8 +14877,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 525
   indentLevel: 0
-  storyText: The dinner goes splendidly. They are obviously already enamored with
-    each other.
+  storyText: '{b}]The dinner goes splendidly. They are obviously already enamored
+    with each other.{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -14765,11 +14988,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 521
   indentLevel: 0
-  storyText: I am looking for someone to settle down with. Someone that can make me
-    feel important again. What about you?
+  storyText: 
   description: 
   character: {fileID: 2099690336}
-  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  portrait: {fileID: 21300000, guid: 73d558a3cf3a9496695f399ce0f95ebb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14862,7 +15084,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &1246196384
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14872,7 +15094,1646 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 532
+  itemId: 650
+  indentLevel: 0
+  storyText: "Is that so? Why did you go for law in the end?  \r\n"
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 649
+  indentLevel: 0
+  storyText: "Oh, you work in the field of psychology! That\u2019s really cool! {w=0.01}Do
+    you know that before I chose law I was thinking of going for psychology as well?\r\n"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 648
+  indentLevel: 0
+  storyText: '{b}Linda and Andras{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 647
+  indentLevel: 0
+  storyText: "{b}The dinner is pleasant. Linda and Andras talk about interesting things
+    in very formal tones. They don\u2019t talk at all about their private lives.\r{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 646
+  indentLevel: 0
+  storyText: Well...
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: 45f58905fd20644c8bc8c854e1184940, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 645
+  indentLevel: 0
+  storyText: Why not? Are you not good with people?
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 644
+  indentLevel: 0
+  storyText: "Trust me, you do not need to be good at \u201Cgetting people\u201D to
+    be a good psychologist."
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: a3da3a9971af84c8f8cb946adf44541e, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 552
+  indentLevel: 0
+  storyText: Oh, no, no, let us not talk about me. {w=0.01}You are way more interesting.
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: 71934b3eafbc14ac6b60768e1a8ae64e, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 551
+  indentLevel: 0
+  storyText: What about you? You have a good family?
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 550
+  indentLevel: 0
+  storyText: "A big, happy family, you say? {w=0.01}Interesting\u2026 {i} She writes
+    something on her napkin.\r{/i}"
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 549
+  indentLevel: 0
+  storyText: "Of course, bro! {w=0.1}Why shouldn\u2019t I? We are a big, happy family."
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 548
+  indentLevel: 0
+  storyText: "Tell me, Argh, are you in good terms with your family?\r\n"
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: d3cd94d399ac74a1f9896409875e998c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 547
+  indentLevel: 0
+  storyText: '{i}Linda watches Argh above her glasses.{/i}'
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 546
+  indentLevel: 0
+  storyText: '{b}Argh and Linda{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 545
+  indentLevel: 0
+  storyText: "{b}Linda analyses Argh for the whole dinner. He\u2019s a little bit
+    weirded out.{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 544
+  indentLevel: 0
+  storyText: Oh, no, no, let us not talk about me. {w=0.01}You are way more interesting.
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: 71934b3eafbc14ac6b60768e1a8ae64e, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 543
+  indentLevel: 0
+  storyText: What about you? You have a good family?
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 542
+  indentLevel: 0
+  storyText: "A big, happy family, you say? {w=0.01}Interesting\u2026 {i} She writes
+    something on her napkin.\r{/i}"
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 541
+  indentLevel: 0
+  storyText: "Of course, bro! {w=0.1}Why shouldn\u2019t I? We are a big, happy family."
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 540
+  indentLevel: 0
+  storyText: '{i}Linda watches Argh above her glasses.{/i}'
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 539
+  indentLevel: 0
+  storyText: "Tell me, Argh, are you in good terms with your family?\r\n"
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: d3cd94d399ac74a1f9896409875e998c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 534
+  indentLevel: 0
+  storyText: '{b}Argh and Tony{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 587
+  indentLevel: 0
+  storyText: "No! \n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 808a040d2143447a3a0b874d15d5fb41, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 586
+  indentLevel: 0
+  storyText: "{b}The waiter:{/b} You haven\u2019t ordered anything yet, sir."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 585
+  indentLevel: 0
+  storyText: "Excuse me, will my pizza be long?\r\n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 584
+  indentLevel: 0
+  storyText: '{i}The waiter arrives at their table.{/i}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 583
+  indentLevel: 0
+  storyText: '{b}The dinner is not unpleasant, but the two have obviously very different
+    views on life.{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 582
+  indentLevel: 0
+  storyText: "That\u2019s the point! Even if you are tired...\r\n"
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 581
+  indentLevel: 0
+  storyText: "Sometimes I\x19m just too tired."
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 3677b6ff89336455ab8a38641fe0bca4, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 580
+  indentLevel: 0
+  storyText: "I don\u2019t think so. "
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 88de94f0aa853450da44907c7120ea8c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 579
+  indentLevel: 0
+  storyText: "You should do something! There is always time for physical activity!\r\n"
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 578
+  indentLevel: 0
+  storyText: "Oh, not really, I don\u2019t have much time for those kinds of stuff.
+    {w=0.01}I just don\u2019t eat that much."
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 3677b6ff89336455ab8a38641fe0bca4, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 577
+  indentLevel: 0
+  storyText: Do you practice some sport? You seem to be very in shape!
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 576
+  indentLevel: 0
+  storyText: '{b}Argh and Andras{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 575
+  indentLevel: 0
+  storyText: '{b}The dinner is not unpleasant, but the two have obviously very different
+    views on life.{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 574
+  indentLevel: 0
+  storyText: "That\u2019s the point! Even if you are tired...\r\n"
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 573
+  indentLevel: 0
+  storyText: "Sometimes I\x19m just too tired."
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 3677b6ff89336455ab8a38641fe0bca4, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 572
+  indentLevel: 0
+  storyText: "I don\u2019t think so. "
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 88de94f0aa853450da44907c7120ea8c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 571
+  indentLevel: 0
+  storyText: "You should do something! There is always time for physical activity!\r\n"
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 570
+  indentLevel: 0
+  storyText: "Oh, not really, I don\u2019t have much time for those kinds of stuff.
+    {w=0.01}I just don\u2019t eat that much."
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 3677b6ff89336455ab8a38641fe0bca4, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 569
+  indentLevel: 0
+  storyText: Do you practice some sport? You seem to be very in shape!
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 568
+  indentLevel: 0
+  storyText: "{b}The Niz says 5 words in total during the whole dinner. Two of them
+    are \u201Cyes\u201D.{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 567
+  indentLevel: 0
+  storyText: "Is it true that you\u2019re going to come back to the wrestling scene?
+    Or is it just a rumor? Please tell me it\u2019s the truth!\r\n"
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 566
+  indentLevel: 0
+  storyText: "\u2026 {w=0.01}Thank you, I-\r\n"
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 565
+  indentLevel: 0
+  storyText: And I was at the premier of your first movie! You were sooo good in it!
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 564
+  indentLevel: 0
+  storyText: '{i}Drains his glass of wine in one gulp.{/i} Mh.'
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 563
+  indentLevel: 0
+  storyText: "You remember when you did that move that went \x1Cboom, bam, ka pow\x1D
+    during one of your latest matches? {w=0.01}What was it like?"
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 562
+  indentLevel: 0
+  storyText: 'I have all your action figures, you know? '
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 561
+  indentLevel: 0
+  storyText: '{b}Argh and The Niz{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 560
+  indentLevel: 0
+  storyText: "{b}The Niz says 5 words in total during the whole dinner. Two of them
+    are \u201Cyes\u201D.{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 559
+  indentLevel: 0
+  storyText: "Is it true that you\u2019re going to come back to the wrestling scene?
+    Or is it just a rumor? Please tell me it\u2019s the truth!\r\n"
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 558
+  indentLevel: 0
+  storyText: "\u2026 {w=0.01}Thank you, I-\r\n"
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 557
+  indentLevel: 0
+  storyText: And I was at the premier of your first movie! You were sooo good in it!
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 556
+  indentLevel: 0
+  storyText: '{i}Drains his glass of wine in one gulp.{/i} Mh.'
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 555
+  indentLevel: 0
+  storyText: "You remember when you did that move that went \x1Cboom, bam, ka pow\x1D
+    during one of your latest matches? {w=0.01}What was it like?"
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 554
+  indentLevel: 0
+  storyText: 'I have all your action figures, you know? '
+  description: 
+  character: {fileID: 754772278}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 643
+  indentLevel: 0
+  storyText: "Fewer things to study and it is easier. Also, I don\u2019t get people
+    that much, you know?\r\n"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 88de94f0aa853450da44907c7120ea8c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 642
+  indentLevel: 0
+  storyText: "Is that so? Why did you go for law in the end?  \r\n"
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 641
+  indentLevel: 0
+  storyText: "Oh, you work in the field of psychology! That\u2019s really cool! {w=0.01}Do
+    you know that before I chose law I was thinking of going for psychology as well?\r\n"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 640
+  indentLevel: 0
+  storyText: '{b}]The dinner goes splendidly. They are obviously already enamored
+    with each other.{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 639
   indentLevel: 0
   storyText: "Yes, I have. It is indeed very interesting! Especially the part about\u2026"
   description: 
@@ -14887,9 +16748,9 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1246196385
+--- !u!114 &1246196445
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14899,7 +16760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 531
+  itemId: 638
   indentLevel: 0
   storyText: Have you read This silver lining by Matthew Slow? They talk about the
     biological need for a companion.
@@ -14915,9 +16776,9 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1246196386
+--- !u!114 &1246196446
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14927,7 +16788,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 530
+  itemId: 637
   indentLevel: 0
   storyText: More or less the same. I wish I had someone to keep me company.
   description: 
@@ -14942,9 +16803,9 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1246196387
+--- !u!114 &1246196447
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14954,13 +16815,40 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 529
+  itemId: 636
   indentLevel: 0
   storyText: I am looking for someone to settle down with. Someone that can make me
-    feel important again. What about you?
+    feel important again.{w=0.01} What about you?
   description: 
   character: {fileID: 2099690336}
   portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 635
+  indentLevel: 0
+  storyText: 
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: 73d558a3cf3a9496695f399ce0f95ebb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14970,9 +16858,9 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1246196388
+--- !u!114 &1246196449
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14982,7 +16870,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 528
+  itemId: 634
   indentLevel: 0
   storyText: '{i}Linda blushes.{/i} Thank you. You are a fine specimen yourself, Nando.
     Tell me, why are you here?'
@@ -14998,9 +16886,9 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1246196389
+--- !u!114 &1246196450
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -15010,7 +16898,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 527
+  itemId: 633
   indentLevel: 0
   storyText: "I\u2019ve got to say, Linda, you are really beautiful."
   description: 
@@ -15025,9 +16913,9 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &1246196390
+--- !u!114 &1246196451
 MonoBehaviour:
-  m_ObjectHideFlags: 2
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -15037,9 +16925,1157 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 526
+  itemId: 632
   indentLevel: 0
-  storyText: Linda and The Niz
+  storyText: '{b}Linda and The Niz{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 631
+  indentLevel: 0
+  storyText: I am looking for someone to settle down with. Someone that can make me
+    feel important again.{w=0.01} What about you?
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 630
+  indentLevel: 0
+  storyText: "{b}The dinner goes well. Both of them enjoy their time together, even
+    if there are some awkward moments.\r{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 629
+  indentLevel: 0
+  storyText: "I personally don\x19t like it that much. {w=0.01}What music do you like?\r\n"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 628
+  indentLevel: 0
+  storyText: "Dude, that guy\u2019s been dead for ages! His music is really old!"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: ac95f70e5c3274d2ab3830eab5ebbb3c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 627
+  indentLevel: 0
+  storyText: Elvis Parsley!
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 626
+  indentLevel: 0
+  storyText: '...'
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 625
+  indentLevel: 0
+  storyText: "I don\u2019t know, what do you call it? \r\n"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 88de94f0aa853450da44907c7120ea8c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 624
+  indentLevel: 0
+  storyText: "Oh oh, wait, since you are from the solar system you will love this
+    joke, check this out: {w=0-01}What do you call the king of the vegetables?\r\n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 623
+  indentLevel: 0
+  storyText: '{b}Tony and Andras{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 622
+  indentLevel: 0
+  storyText: "{b}The dinner goes well. Both of them enjoy their time together, even
+    if there are some awkward moments.\r{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 621
+  indentLevel: 0
+  storyText: "I personally don\x19t like it that much. {w=0.01}What music do you like?\r\n"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: ab265bde9dd53499c9aa0beea3ace2f3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 620
+  indentLevel: 0
+  storyText: "Dude, that guy\u2019s been dead for ages! His music is really old!"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: ac95f70e5c3274d2ab3830eab5ebbb3c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 619
+  indentLevel: 0
+  storyText: Elvis Parsley!
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 618
+  indentLevel: 0
+  storyText: '...'
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 617
+  indentLevel: 0
+  storyText: "I don\u2019t know, what do you call it? \r\n"
+  description: 
+  character: {fileID: 265197178}
+  portrait: {fileID: 21300000, guid: 88de94f0aa853450da44907c7120ea8c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 616
+  indentLevel: 0
+  storyText: "Oh oh, wait, since you are from the solar system you will love this
+    joke, check this out: {w=0-01}What do you call the king of the vegetables?\r\n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 615
+  indentLevel: 0
+  storyText: "{b}The dinner ends with Tony feeling like he received precious advice
+    and The Niz like he has done something good.\r{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 614
+  indentLevel: 0
+  storyText: 'I am working hard! Actually... '
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 613
+  indentLevel: 0
+  storyText: "It\u2019s good to have an ambitious dream, otherwise you\u2019re never
+    gonna make it. {w=0.01}But you need to believe in it and work hard."
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: 8f2abd256a3db40f787993ce4484048c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 612
+  indentLevel: 0
+  storyText: "I am going to be the greatest chef of all time! {w=0.01}Well, I\u2019ll
+    try to, ahah.\r\n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 611
+  indentLevel: 0
+  storyText: what do you want to do with your life, kiddo?
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 610
+  indentLevel: 0
+  storyText: 
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: 73d558a3cf3a9496695f399ce0f95ebb, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 609
+  indentLevel: 0
+  storyText: Mh,
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 608
+  indentLevel: 0
+  storyText: "You are so cool and badass! I wish I could become as cool as you one
+    day.\r\n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 607
+  indentLevel: 0
+  storyText: '{b}Tony and The Niz{/b}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 606
+  indentLevel: 0
+  storyText: "{b}The dinner ends with Tony feeling like he received precious advice
+    and The Niz like he has done something good.\r{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 605
+  indentLevel: 0
+  storyText: 'I am working hard! Actually... '
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 604
+  indentLevel: 0
+  storyText: "It\u2019s good to have an ambitious dream, otherwise you\u2019re never
+    gonna make it. {w=0.01}But you need to believe in it and work hard."
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: 8f2abd256a3db40f787993ce4484048c, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 603
+  indentLevel: 0
+  storyText: "I am going to be the greatest chef of all time! {w=0.01}Well, I\u2019ll
+    try to, ahah.\r\n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 602
+  indentLevel: 0
+  storyText: what do you want to do with your life, kiddo?
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 601
+  indentLevel: 0
+  storyText: 
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: 73d558a3cf3a9496695f399ce0f95ebb, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 1
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 600
+  indentLevel: 0
+  storyText: Mh,
+  description: 
+  character: {fileID: 2099690336}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 599
+  indentLevel: 0
+  storyText: "{b}To say that the dinner is awkward would be an understatement.\r{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 598
+  indentLevel: 0
+  storyText: "{b}To say that the dinner is awkward would be an understatement.\r{/b}"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 597
+  indentLevel: 0
+  storyText: "You are so cool and badass! I wish I could become as cool as you one
+    day.\r\n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 596
+  indentLevel: 0
+  storyText: "{i}Linda and the waiter share a look of bewilderment.{/i}.\r"
+  description: 
+  character: {fileID: 1777102820}
+  portrait: {fileID: 21300000, guid: 22b079211534d4fcd860cf8404813939, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 595
+  indentLevel: 0
+  storyText: "You were supposed to say: \x1CNo, sir, it will be round!\x1D {i}Tony
+    laughs awkwardly{/i}.\r"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 594
+  indentLevel: 0
+  storyText: "No! \n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 808a040d2143447a3a0b874d15d5fb41, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 593
+  indentLevel: 0
+  storyText: "{b}The waiter:{/b} You haven\u2019t ordered anything yet, sir."
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 592
+  indentLevel: 0
+  storyText: "Excuse me, will my pizza be long?\r\n"
+  description: 
+  character: {fileID: 932650547}
+  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 591
+  indentLevel: 0
+  storyText: '{i}The waiter arrives at their table.{/i}'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1246196493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1246196035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 590
+  indentLevel: 0
+  storyText: '{b}Tony and Linda{/b}'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
