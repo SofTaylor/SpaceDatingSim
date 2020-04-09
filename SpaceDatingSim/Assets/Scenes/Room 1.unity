@@ -7207,17 +7207,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4127482293888041143, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
-      value: 
-      objectReference: {fileID: 1635726455}
     - target: {fileID: 4670059832443276969, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: fsm.states.Array.data[0].actionData.actionIsOpen.Array.data[0]
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4670059832443276969, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
+      value: 
+      objectReference: {fileID: 1635726455}
+    - target: {fileID: 4127482293888041143, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: fsm.states.Array.data[0].actionData.unityObjectParams.Array.data[0]
       value: 
