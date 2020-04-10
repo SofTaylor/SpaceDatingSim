@@ -1685,7 +1685,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 110.4, y: 49}
+  m_AnchoredPosition: {x: -99.4, y: 105.8}
   m_SizeDelta: {x: 60, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8061831618352785529
@@ -9752,7 +9752,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -99, y: 55.5}
+  m_AnchoredPosition: {x: 145.6, y: 90.2}
   m_SizeDelta: {x: 90, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &358707178680218685
@@ -14039,7 +14039,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 189.8, y: -32.4}
+  m_AnchoredPosition: {x: 28.1, y: 147.5}
   m_SizeDelta: {x: 60, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5046660698638058466
@@ -23196,7 +23196,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4624300050744809366
 RectTransform:
   m_ObjectHideFlags: 0
@@ -25923,7 +25923,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 1f09a0b0eccd044839c2a1bb10d3537d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9b87790e839f68246940bfbaacbced22, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -27842,7 +27842,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 9.2, y: 123.9}
+  m_AnchoredPosition: {x: -98.9, y: 6.3}
   m_SizeDelta: {x: 60, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7142105149190831334
@@ -35941,7 +35941,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1195074410581201473
 RectTransform:
   m_ObjectHideFlags: 0
@@ -37229,7 +37229,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16.3, y: -17.7}
+  m_AnchoredPosition: {x: 60.5, y: -1.9}
   m_SizeDelta: {x: 60, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3522458426462588757
@@ -39659,7 +39659,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 15
+          value: 30
         - useVariable: 1
           name: toRoom5
           tooltip: 
@@ -39848,7 +39848,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 15
+          value: 30
         - useVariable: 1
           name: toRoom4
           tooltip: 
@@ -39872,7 +39872,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 40
+          value: 30
         fsmBoolParams: []
         fsmVector2Params:
         - useVariable: 1
@@ -39961,7 +39961,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101010101
-        actionIsOpen: 000000000000
+        actionIsOpen: 000000000001
         actionStartIndex: 00000000050000000d000000100000001300000016000000
         actionHashCodes: d23c850493fd6603603dd905603dd905603dd905603dd905
         unityObjectParams: []
@@ -40049,7 +40049,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 15
+          value: 30
         - useVariable: 1
           name: toRoom4
           tooltip: 
@@ -40061,7 +40061,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 20
+          value: 30
         - useVariable: 1
           name: toRoom5
           tooltip: 
@@ -40073,7 +40073,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 40
+          value: 15
         fsmBoolParams: []
         fsmVector2Params:
         - useVariable: 1
@@ -40162,7 +40162,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101010101
-        actionIsOpen: 000000000101
+        actionIsOpen: 000000000000
         actionStartIndex: 00000000050000000d000000100000001300000016000000
         actionHashCodes: d23c850493fd6603603dd905603dd905603dd905603dd905
         unityObjectParams: []
@@ -40238,7 +40238,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 15
+          value: 30
         - useVariable: 1
           name: toRoom2
           tooltip: 
@@ -40262,7 +40262,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 20
+          value: 30
         - useVariable: 1
           name: toRoom5
           tooltip: 
@@ -40274,7 +40274,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 20
+          value: 15
         fsmBoolParams: []
         fsmVector2Params:
         - useVariable: 1
@@ -40363,7 +40363,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 010101010101
-        actionIsOpen: 000001010101
+        actionIsOpen: 000000000000
         actionStartIndex: 00000000050000000d000000100000001300000016000000
         actionHashCodes: d23c850493fd6603603dd905603dd905603dd905603dd905
         unityObjectParams: []
@@ -40451,7 +40451,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 40
+          value: 30
         - useVariable: 1
           name: toRoom3
           tooltip: 
@@ -40463,7 +40463,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 40
+          value: 15
         - useVariable: 1
           name: toRoom4
           tooltip: 
@@ -40475,7 +40475,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 20
+          value: 15
         fsmBoolParams: []
         fsmVector2Params:
         - useVariable: 1
