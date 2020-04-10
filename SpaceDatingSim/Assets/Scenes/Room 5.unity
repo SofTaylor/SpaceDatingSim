@@ -6787,7 +6787,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1268.175, y: 533.56525}
+  scrollPos: {x: 1016.0155, y: -47.360474}
   variablesScrollPos: {x: 0, y: 103}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -6799,9 +6799,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1635726478}
-  selectedCommands:
-  - {fileID: 1635726481}
+  - {fileID: 1635726654}
+  selectedCommands: []
   variables:
   - {fileID: 1635726451}
   - {fileID: 1635726450}
@@ -9297,7 +9296,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 16.59879
-    y: 99.1152
+    y: 97.51925
     width: 120
     height: 40
   tint: {r: 1, g: 0.7254902, b: 0.38431373, a: 1}
@@ -9968,7 +9967,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 9.366283
-    y: -92.40667
+    y: -94.00262
     width: 124.05207
     height: 40
   tint: {r: 1, g: 0.91764706, b: 0.5411765, a: 1}
@@ -10647,7 +10646,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 56
   indentLevel: 0
-  storyText: "I\u2019m not always \u201CThe Angry Niz\u201D, you know?\r\n"
+  storyText: "Mh, I\u2019m not always \u201CThe Angry Niz\u201D, you know?\r\n"
   description: 
   character: {fileID: 2087085007}
   portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
@@ -10886,10 +10885,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 360
   indentLevel: 0
-  storyText: 'I live in self-deprecation. '
+  storyText: "Mh, if it is good I don\u2019t mind it."
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 91bb3bf28c7c741e28f101e0053a1791, type: 3}
+  character: {fileID: 2087085007}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -12091,8 +12090,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 19
   indentLevel: 0
-  storyText: "Yeah, I\x19m The Niz, it\x19s true that I got divorced three times,
-    it was really me that played the villain in the new Vindicators movie and "
+  storyText: "Mh, I\x19m The Niz, it\x19s true that I got divorced three times, it
+    was really me that played the villain in the new Vindicators movie and "
   description: 
   character: {fileID: 2087085007}
   portrait: {fileID: 21300000, guid: 8f2abd256a3db40f787993ce4484048c, type: 3}
@@ -13288,8 +13287,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 280
   indentLevel: 0
-  storyText: "Sooner or later you will try to fill the voids left by the fame itself.
-    \r\n"
+  storyText: "Mh, sooner or later you will try to fill the voids left by the fame
+    itself. \r\n"
   description: 
   character: {fileID: 2087085007}
   portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
@@ -13408,11 +13407,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 354
   indentLevel: 0
-  storyText: If I know The Niz? It's like asking if I know how to cook spaghetti!
-    He is a living legend!
+  storyText: "Nah. I\u2019m too old for those silly problems.\r\n"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 3f22136958cef4388af7ae99c52316b3, type: 3}
+  character: {fileID: 2087085007}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13517,7 +13515,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 35.82843
-    y: 432.1426
+    y: 430.54666
     width: 140.64995
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -13632,11 +13630,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 348
   indentLevel: 0
-  storyText: "Not really. I moved not too long ago and I don\u2019t really know where
-    my life is going right now. Maybe I will, maybe I won\u2019t."
+  storyText: "Yeah, I do. Especially when you are working it\u2019s good to have a
+    routine or organize time so you can actually do everything. \r\n"
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 7099aa1969e564e36b90f78c2dc3997c, type: 3}
+  character: {fileID: 2087085007}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13856,11 +13854,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 342
   indentLevel: 0
-  storyText: "Never in person, but Aikuk Uell, one of the most famous interstellar
-    chefs, is a Koquo. She\u2019s so full of energy in the kitchen!"
+  storyText: What kind of question is that? One of my best rivals in my entire career
+    was a Koquo. {w=0.01}His name is Rey Mistery, never heard of him?
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 2087085007}
+  portrait: {fileID: 21300000, guid: 8f2abd256a3db40f787993ce4484048c, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14097,8 +14095,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: Mh, I guess I do. It depends on the exact activity.
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 2087085007}
+  portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14202,8 +14200,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 34.377625
-    y: 302.81723
+    x: 32.781673
+    y: 299.62534
     width: 139.37318
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
