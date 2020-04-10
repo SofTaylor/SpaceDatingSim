@@ -305,7 +305,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   previewOnGUI: 1
   enableGUILayout: 1
-  drawStateLabels: 0
+  drawStateLabels: 1
   enableStateLabelsInBuilds: 0
   GUITextureStateLabels: 0
   GUITextStateLabels: 0
@@ -8797,11 +8797,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1337.159, y: 298.18243}
+  scrollPos: {x: 1275.5189, y: 725.1498}
   variablesScrollPos: {x: 0, y: 387}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.4807135
+  zoom: 0.5707134
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -8809,8 +8809,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1635726498}
-  selectedCommands: []
+  - {fileID: 1635726544}
+  selectedCommands:
+  - {fileID: 1635726537}
   variables:
   - {fileID: 1635726478}
   - {fileID: 1635726496}
@@ -9500,7 +9501,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -103.80301
     y: 249.36069
-    width: 120.7282
+    width: 127.09649
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10184,7 +10185,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 192.70856
     y: -39.50099
-    width: 147.77133
+    width: 156.53333
     height: 40
   tint: {r: 1, g: 0.78395545, b: 0.3160377, a: 1}
   useCustomTint: 1
@@ -11601,7 +11602,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 245
   indentLevel: 0
-  storyText: You work out for 30 minutes.
+  storyText: "You read it. It was an articale talking about the Koquos: Koquos have\r
+    a very fast metabolism and they live really short lives. They are well known for\r\ntheir
+    energy and positivity. {w=0.01}Their species.....'"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -11918,7 +11921,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -477.39703
     y: -55.83157
-    width: 120
+    width: 120.087715
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12336,7 +12339,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 190.07716
     y: -263.92587
-    width: 142.57074
+    width: 149.52457
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12757,7 +12760,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 189.93275
     y: -304.08838
-    width: 120.7282
+    width: 125.69473
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -15050,7 +15053,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -520.9003
     y: -453.87076
-    width: 140.4905
+    width: 143.91754
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15540,7 +15543,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -336.96246
     y: -448.72794
-    width: 142.57074
+    width: 146.72104
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -15848,7 +15851,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -476.78036
     y: 56.470505
-    width: 188.33604
+    width: 194.38069
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15938,7 +15941,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -474.8937
     y: 7.4385834
-    width: 143.61086
+    width: 148.1228
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16731,7 +16734,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -349.77136
     y: -642.5906
-    width: 143.61086
+    width: 148.1228
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -16922,7 +16925,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -533.70935
     y: -645.75745
-    width: 142.57074
+    width: 148.1228
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17257,9 +17260,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 234.02028
+    x: 240.3623
     y: 436.5224
-    width: 125.9288
+    width: 127.09649
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17511,7 +17514,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 237.76889
     y: 481.42734
-    width: 136.33002
+    width: 138.31052
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17733,8 +17736,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 238.95425
-    y: 604.9198
-    width: 137.37013
+    y: 603.3343
+    width: 139.71228
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17786,7 +17789,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 240.50858
     y: 565.8478
-    width: 138.41025
+    width: 139.71228
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -18010,7 +18013,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 235.55717
     y: 523.30133
-    width: 130.0893
+    width: 131.30176
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -18457,7 +18460,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -496.93985
     y: 237.24907
-    width: 156.0923
+    width: 159.33684
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18830,7 +18833,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -489.22067
     y: 451.55548
-    width: 167.53363
+    width: 171.95262
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19000,7 +19003,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -495.38333
     y: 400.22192
-    width: 171.6941
+    width: 176.1579
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19170,7 +19173,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -495.01645
     y: 343.0021
-    width: 160.25278
+    width: 163.5421
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19340,7 +19343,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -498.249
     y: 286.17157
-    width: 166.4935
+    width: 170.55087
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0

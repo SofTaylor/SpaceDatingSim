@@ -6787,7 +6787,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1016.0155, y: -47.360474}
+  scrollPos: {x: 1009.6317, y: -111.19846}
   variablesScrollPos: {x: 0, y: 103}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -6799,8 +6799,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1635726654}
-  selectedCommands: []
+  - {fileID: 1635726660}
+  selectedCommands:
+  - {fileID: 1635726657}
   variables:
   - {fileID: 1635726451}
   - {fileID: 1635726450}
@@ -13630,8 +13631,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 348
   indentLevel: 0
-  storyText: "Yeah, I do. Especially when you are working it\u2019s good to have a
-    routine or organize time so you can actually do everything. \r\n"
+  storyText: "Hmm. Yeah, I do. Especially when you are working it\u2019s good to have
+    a routine or organize time so you can actually do everything. \r\n"
   description: 
   character: {fileID: 2087085007}
   portrait: {fileID: 21300000, guid: eab999b841d3c45d8bfea008ab44f74d, type: 3}
@@ -14200,8 +14201,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 32.781673
-    y: 299.62534
+    x: 31.185722
+    y: 298.0294
     width: 139.37318
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
