@@ -825,6 +825,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 69192301}
+  - component: {fileID: 69192302}
   m_Layer: 5
   m_Name: Tony_entries
   m_TagString: Untagged
@@ -863,9 +864,105 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030517578, y: -0.000015258789}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!82 &69192302
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 69192300}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 84e47b21012e549daba18df489e55e5a, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1001 &72811322
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7875,6 +7972,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 483521539}
+  - component: {fileID: 483521540}
   m_Layer: 5
   m_Name: TheNiz_entries
   m_TagString: Untagged
@@ -7914,6 +8012,102 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!82 &483521540
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 483521538}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 84e47b21012e549daba18df489e55e5a, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &500432568
 GameObject:
   m_ObjectHideFlags: 0
@@ -12840,6 +13034,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 922394889}
+  - component: {fileID: 922394890}
   m_Layer: 5
   m_Name: Argh_entries
   m_TagString: Untagged
@@ -12877,9 +13072,105 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030517578, y: 0.000015258789}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!82 &922394890
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 922394888}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 84e47b21012e549daba18df489e55e5a, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &926732592
 GameObject:
   m_ObjectHideFlags: 0
@@ -15737,6 +16028,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1189967630}
+  - component: {fileID: 1189967631}
   m_Layer: 5
   m_Name: Andras_entries
   m_TagString: Untagged
@@ -15772,9 +16064,105 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030517578, y: -0.000015258789}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!82 &1189967631
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1189967629}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 84e47b21012e549daba18df489e55e5a, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1203705579
 GameObject:
   m_ObjectHideFlags: 0
@@ -16523,7 +16911,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1540.4813
     y: -656.6363
-    width: 157.45523
+    width: 153.08804
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -16557,7 +16945,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1540.1732
     y: -699.339
-    width: 145.51576
+    width: 141.70819
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -16591,7 +16979,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1541.2358
     y: -747.4491
-    width: 147.90366
+    width: 145.0552
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -16626,7 +17014,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1538.0428
     y: -789.7353
-    width: 142.33191
+    width: 139.03058
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -16675,7 +17063,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 488.33548
     y: -639.1244
-    width: 169.3947
+    width: 165.1373
     height: 40
   tint: {r: 0.754717, g: 0.6146909, b: 0.5446778, a: 1}
   useCustomTint: 1
@@ -17181,7 +17569,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1537.735
     y: -832.1504
-    width: 144.71979
+    width: 142.3776
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17216,7 +17604,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1535.8899
     y: -877.0273
-    width: 132.78033
+    width: 130.99776
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17250,7 +17638,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1528.098
     y: -927.0888
-    width: 143.12787
+    width: 138.36118
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17284,7 +17672,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1530.3884
     y: -977.5349
-    width: 145.51576
+    width: 141.70819
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17318,7 +17706,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1537.7103
     y: -1022.4988
-    width: 133.5763
+    width: 130.32835
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17352,7 +17740,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1545.4653
     y: -1067.5414
-    width: 130.39243
+    width: 127.65074
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17530,7 +17918,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 182.29462
     y: -712.68085
-    width: 120.84086
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19248,7 +19636,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.60614
     y: -1041.0427
-    width: 154.27136
+    width: 151.07983
     height: 40
   tint: {r: 0.84313726, g: 0.70980394, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -19336,7 +19724,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 683.8979
     y: -1085.2086
-    width: 154.27136
+    width: 151.07983
     height: 40
   tint: {r: 0.8407328, g: 0.70598966, b: 0.8962264, a: 1}
   useCustomTint: 1
@@ -19424,7 +19812,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 686.3766
     y: -931.4611
-    width: 155.06734
+    width: 150.41043
     height: 40
   tint: {r: 1, g: 0.627451, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -19682,7 +20070,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 686.08575
     y: -976.5424
-    width: 155.06734
+    width: 150.41043
     height: 40
   tint: {r: 1, g: 0.627451, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -19770,7 +20158,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 688.2952
     y: -825.07776
-    width: 157.45523
+    width: 153.75745
     height: 40
   tint: {r: 0.5647059, g: 0.7882353, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -19858,7 +20246,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.0692
     y: -865.3393
-    width: 157.45523
+    width: 153.75745
     height: 40
   tint: {r: 0.5647059, g: 0.7882353, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -19946,7 +20334,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.2621
     y: -715.374
-    width: 167.0068
+    width: 161.79028
     height: 40
   tint: {r: 1, g: 0.9647059, b: 0.5896226, a: 1}
   useCustomTint: 1
@@ -20801,7 +21189,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.8074
     y: -756.46466
-    width: 167.0068
+    width: 161.79028
     height: 40
   tint: {r: 1, g: 0.9647059, b: 0.5896226, a: 1}
   useCustomTint: 1
@@ -20889,7 +21277,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.15216
     y: -601.84955
-    width: 169.3947
+    width: 165.1373
     height: 40
   tint: {r: 0.75686276, g: 0.6156863, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -20977,7 +21365,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 685.69745
     y: -638.9988
-    width: 169.3947
+    width: 165.1373
     height: 40
   tint: {r: 0.75686276, g: 0.6156863, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -22571,11 +22959,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -776.51184, y: 865.2064}
+  scrollPos: {x: 483.97687, y: 1012.1806}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.6281686
+  zoom: 0.7469343
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -22583,9 +22971,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1246196283}
-  selectedCommands:
-  - {fileID: 1246196540}
+  - {fileID: 1246196080}
+  selectedCommands: []
   variables:
   - {fileID: 1246196245}
   - {fileID: 1246196244}
@@ -22712,7 +23099,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 487.90012
     y: -710.40546
-    width: 167.0068
+    width: 161.79028
     height: 40
   tint: {r: 1, g: 0.9647059, b: 0.5896226, a: 1}
   useCustomTint: 1
@@ -22800,7 +23187,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 488.4454
     y: -755.2526
-    width: 167.0068
+    width: 161.79028
     height: 40
   tint: {r: 1, g: 0.9617802, b: 0.5882353, a: 1}
   useCustomTint: 1
@@ -22888,7 +23275,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 487.7902
     y: -600.6375
-    width: 169.3947
+    width: 165.1373
     height: 40
   tint: {r: 0.75686276, g: 0.6156863, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -22976,7 +23363,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 490.8289
     y: -823.82263
-    width: 157.45523
+    width: 153.75745
     height: 40
   tint: {r: 0.5647059, g: 0.7882353, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -23064,7 +23451,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 487.70724
     y: -862.9745
-    width: 157.45523
+    width: 153.75745
     height: 40
   tint: {r: 0.56225526, g: 0.78499675, b: 0.8962264, a: 1}
   useCustomTint: 1
@@ -23152,7 +23539,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 490.39798
     y: -930.20605
-    width: 155.06734
+    width: 150.41043
     height: 40
   tint: {r: 1, g: 0.627451, b: 0.54509807, a: 1}
   useCustomTint: 1
@@ -23240,7 +23627,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 488.7238
     y: -973.02484
-    width: 155.06734
+    width: 150.41043
     height: 40
   tint: {r: 1, g: 0.62571025, b: 0.5424528, a: 1}
   useCustomTint: 1
@@ -23328,7 +23715,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 486.35083
     y: -1035.0303
-    width: 154.27136
+    width: 151.07983
     height: 40
   tint: {r: 0.84313726, g: 0.70980394, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -23416,7 +23803,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 490.07175
     y: -1079.9474
-    width: 154.27136
+    width: 151.07983
     height: 40
   tint: {r: 0.84313726, g: 0.70980394, b: 0.8980392, a: 1}
   useCustomTint: 1
@@ -24824,7 +25211,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1113.3765
     y: -844.49774
-    width: 130.39243
+    width: 126.98134
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24862,7 +25249,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2216.2854
     y: -658.13525
-    width: 167.80276
+    width: 163.12909
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -26812,7 +27199,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1765.736
     y: -852.9221
-    width: 130.39243
+    width: 126.98134
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27221,7 +27608,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2215.9773
     y: -702.4298
-    width: 155.86331
+    width: 151.74924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -27254,7 +27641,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2215.6694
     y: -750.5399
-    width: 158.25119
+    width: 155.09625
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -27288,7 +27675,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2213.847
     y: -794.4701
-    width: 152.67944
+    width: 149.07162
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -27321,7 +27708,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2213.539
     y: -836.8854
-    width: 155.06734
+    width: 152.41864
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -27355,7 +27742,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2213.0645
     y: -880.1184
-    width: 143.12787
+    width: 141.03879
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -27388,7 +27775,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2208.0137
     y: -931.5503
-    width: 153.4754
+    width: 148.40222
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -27421,7 +27808,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2208.9336
     y: -980.62604
-    width: 155.86331
+    width: 151.74924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -27482,7 +27869,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2210.7734
     y: -1024.6248
-    width: 143.92383
+    width: 140.36938
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -27760,7 +28147,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2214.4165
     y: -1070.0737
-    width: 140.73997
+    width: 137.69177
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -34226,6 +34613,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1365168484}
+  - component: {fileID: 1365168485}
   m_Layer: 5
   m_Name: Linda_entries
   m_TagString: Untagged
@@ -34264,9 +34652,105 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030517578, y: 0.000015258789}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!82 &1365168485
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1365168483}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 84e47b21012e549daba18df489e55e5a, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1389332642
 GameObject:
   m_ObjectHideFlags: 0
@@ -46980,6 +47464,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4026671335159764871}
+  - component: {fileID: 8607826952434583037}
   m_Layer: 5
   m_Name: Characters
   m_TagString: Untagged
@@ -46987,6 +47472,102 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
+--- !u!82 &8607826952434583037
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8607826952434583036}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 84e47b21012e549daba18df489e55e5a, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &8827951796971400062
 GameObject:
   m_ObjectHideFlags: 0
