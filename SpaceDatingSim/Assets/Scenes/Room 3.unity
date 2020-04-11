@@ -7423,6 +7423,7 @@ GameObject:
   - component: {fileID: 1635726695}
   - component: {fileID: 1635726693}
   - component: {fileID: 1635726707}
+  - component: {fileID: 1635726450}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -7430,6 +7431,33 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &1635726450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1635726449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 408
+  indentLevel: 0
+  storyText: ' {w=0.1}You thought about how small you are in compariso.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!114 &1635726451
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7544,7 +7572,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 920.0029, y: 574.36816}
+  scrollPos: {x: 1308.0306, y: 574.36816}
   variablesScrollPos: {x: 0, y: 42}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -7558,7 +7586,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1635726608}
   selectedCommands:
-  - {fileID: 1635726613}
+  - {fileID: 1635726450}
   variables:
   - {fileID: 1635726478}
   - {fileID: 1635726467}
@@ -10656,7 +10684,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 345.8485
     y: 69.432495
-    width: 120.34199
+    width: 121.680016
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11484,7 +11512,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 751.16144
     y: 126.96074
-    width: 120
+    width: 120.72428
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12331,7 +12359,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -110.76161
     y: 42.007782
-    width: 129.51703
+    width: 134.10455
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12740,7 +12768,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 79.25491
     y: -350.16
-    width: 131.0462
+    width: 128.37015
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12754,6 +12782,7 @@ MonoBehaviour:
   - {fileID: 1635726615}
   - {fileID: 1635726614}
   - {fileID: 1635726613}
+  - {fileID: 1635726450}
   - {fileID: 1635726612}
   - {fileID: 1635726611}
   - {fileID: 1635726610}
@@ -12887,9 +12916,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 240
   indentLevel: 0
-  storyText: 'You watch the view for 15 minutes. Looking at the immensity and the
-    emptyness made you feel nostalgic and sad. {w=0.01}You thought about how small
-    you are in comparison '
+  storyText: You watch the view for 15 minutes. Looking at the immensity and the emptyness
+    made you feel nostalgic and sad.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -13637,7 +13665,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 364.8311
     y: 528.83295
-    width: 134.10455
+    width: 136.01602
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13861,7 +13889,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 366.3854
     y: 488.08286
-    width: 132.57538
+    width: 136.01602
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -14085,7 +14113,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 370.0587
     y: 395.19952
-    width: 124.92951
+    width: 126.45868
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -14309,7 +14337,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 374.06686
     y: 443.59613
-    width: 121.87116
+    width: 124.54722
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -14468,7 +14496,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -92.81903
     y: 435.7256
-    width: 161.62967
+    width: 165.64377
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14781,7 +14809,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -98.98163
     y: 386.3999
-    width: 163.15884
+    width: 169.46669
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14951,7 +14979,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -90.45952
     y: 259.76727
-    width: 149.3963
+    width: 154.17496
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15121,7 +15149,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -92.38287
     y: 329.47656
-    width: 152.45464
+    width: 156.08643
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0

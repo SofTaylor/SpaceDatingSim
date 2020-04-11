@@ -5026,6 +5026,7 @@ GameObject:
   - component: {fileID: 1961712322}
   - component: {fileID: 1961712321}
   - component: {fileID: 1961712323}
+  - component: {fileID: 1961712324}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -5097,7 +5098,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 240.26799
     y: 317.33948
-    width: 156.49576
+    width: 144.74306
     height: 40
   tint: {r: 1, g: 0.7311321, b: 0.88940704, a: 1}
   useCustomTint: 1
@@ -6584,7 +6585,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 450.0461
     y: 231.146
-    width: 123.085335
+    width: 120
     height: 40
   tint: {r: 0.9622642, g: 0.6088564, b: 0.49474904, a: 1}
   useCustomTint: 1
@@ -9559,7 +9560,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -111.607346
     y: -12.100183
-    width: 123.085335
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9706,7 +9707,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 444.1854
     y: -205.58235
-    width: 125.173485
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9797,7 +9798,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.49588
     y: -35.37213
-    width: 131.43794
+    width: 120.567245
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9819,11 +9820,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 861.0208, y: 675.9316}
+  scrollPos: {x: 686.0968, y: 574.25525}
   variablesScrollPos: {x: 0, y: 291}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.7662276
+  zoom: 0.76522756
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -9995,7 +9996,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 242.06142
     y: 361.24588
-    width: 157.53986
+    width: 142.78287
     height: 40
   tint: {r: 1, g: 0.7311321, b: 0.88940704, a: 1}
   useCustomTint: 1
@@ -10278,7 +10279,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -130.20322
     y: 45.918674
-    width: 201.39104
+    width: 184.60048
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10591,9 +10592,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 324
   indentLevel: 0
-  storyText: 'You do some research. You discover that he''s good with kids and charities
-    indeed and that he influenced in a positive way so many lives. You admire him
-    for that. '
+  storyText: You do some research about The Niz. You discover that he's good with
+    kids and he donated a lot to charities.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -10782,7 +10782,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 167.10678
     y: -444.62537
-    width: 123.085335
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10796,6 +10796,7 @@ MonoBehaviour:
   - {fileID: 1961712159}
   - {fileID: 1961712158}
   - {fileID: 1961712157}
+  - {fileID: 1961712324}
   - {fileID: 1961712156}
   - {fileID: 1961712219}
   - {fileID: 1961712218}
@@ -10931,7 +10932,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -88.79647
     y: -442.71927
-    width: 157.53986
+    width: 146.04987
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -11086,7 +11087,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -314.6775
     y: -456.06247
-    width: 154.40762
+    width: 144.08966
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11234,8 +11235,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 303
   indentLevel: 0
-  storyText: "You watch tv. There is a program about VIP and there is something about
-    The Niz as well: he loves knitting scarves and sweaters\r.\n"
+  storyText: "You watch tv. There is a program about VIPs and there is something about
+    The Niz: he loves knitting scarves and sweaters\r.\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -12080,8 +12081,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 263
   indentLevel: 0
-  storyText: 'You read the book for 30 minutes. The book is totally trash but it is
-    realxing indeed. You have a good time reading it and you enjoyed doing it. '
+  storyText: 'You read the book for 30 minutes. It''s total trash, but it is realxing
+    indeed. You have a good time reading it and it makes you laugh. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -12419,7 +12420,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -91.67475
     y: -322.3298
-    width: 128.30571
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -12574,7 +12575,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -266.08173
     y: -331.28497
-    width: 125.173485
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12998,7 +12999,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.47455
     y: 633.2631
-    width: 133.5261
+    width: 125.141045
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13222,7 +13223,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.27094
     y: 664.3195
-    width: 143.96686
+    width: 136.24886
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13448,7 +13449,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 445.75568
     y: 592.0918
-    width: 135.61424
+    width: 127.75465
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13672,7 +13673,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 446.28918
     y: 552.1249
-    width: 143.96686
+    width: 135.59546
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13923,7 +13924,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.578
     y: 501.82037
-    width: 132.48203
+    width: 125.141045
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -14644,7 +14645,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -354.75388
     y: 516.7897
-    width: 169.02469
+    width: 157.15767
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14814,7 +14815,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -342.29794
     y: 624.87585
-    width: 181.55359
+    width: 168.91888
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14984,7 +14985,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -341.93112
     y: 573.67957
-    width: 166.93652
+    width: 154.54407
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15154,7 +15155,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -345.16367
     y: 453.27695
-    width: 177.37729
+    width: 164.99847
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15324,7 +15325,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -342.16187
     y: 402.3465
-    width: 165.89246
+    width: 154.54407
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16286,6 +16287,34 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &1961712324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961711980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 447
+  indentLevel: 0
+  storyText: 'He influenced in a positive way many lives, according to the net. You
+    admire him for that. '
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &2045694283
 GameObject:
   m_ObjectHideFlags: 0

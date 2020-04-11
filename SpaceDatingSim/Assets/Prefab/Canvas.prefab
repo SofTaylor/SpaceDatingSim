@@ -1189,8 +1189,8 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "- He feels like his family is overprotective and they didn't let
-            him try new things. I think he still cares \n  about them"
+          value: "- He says his family iwas overprotective and they didn't let him
+            try new things. \n   I think he still cares a lot about them."
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -1538,8 +1538,8 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "- We talked about his family, I hope he will try to reach out to
-            them. No one should loose their \n  family. "
+          value: "- We talked about his family. I really hope he will try to reach
+            out to them. No one should lose\n   their family. "
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -7533,8 +7533,8 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: "- He divorced 3 times, he was the main villian int he new vindicators
-            movie and he donated a lot \n  of credits to cherity"
+          value: "- He divorced three times, he was the main villian in the new Vindicators
+            \n   movie and he donated a lot of credits to charity."
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -16875,7 +16875,8 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: '- Father??? She is in good terms with her mother.'
+          value: '- Father ??? She is in good terms with her mother. She seems to
+            care a lot about her.'
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -21553,7 +21554,7 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 0.8
   m_Text: "- She lived her whole life on the Intergalactic Citadel but her family
-    \n   originates from the Solar System."
+    comes\n   from the Solar System."
 --- !u!114 &8755240189116380751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21718,7 +21719,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: "- She lived her whole life on the Intergalactic Citadel but her
-            family \n   originates from the Solar System."
+            family comes\n   from the Solar System."
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -24015,7 +24016,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &4624300050744809366
 RectTransform:
   m_ObjectHideFlags: 0
@@ -26572,8 +26573,8 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: '- I told him that I workder out and he has an obsession with moving
-            and never being still'
+          value: "- I told him that I worked out! He was very pleased. He has an obsession
+            with moving,\n   but he's a really nice guy."
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -30527,7 +30528,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 0.8
-  m_Text: '- Geez, it really seems like she likes the sound of her own voice!'
+  m_Text: '- Geez, it really seems that she likes the sound of her own voice!'
 --- !u!114 &562415528316234657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30691,7 +30692,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: '- Geez, it really seems like she likes the sound of her own voice!'
+          value: '- Geez, it really seems that she likes the sound of her own voice!'
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -32553,7 +32554,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: "- Argh thinks that to increase your energy reserve you need to push
-            your limits. He suggested that \n   I should work out.\r\n"
+            your limits. \n   He suggested that I should work out.\r"
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -32976,8 +32977,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: '- Koquos have a very fast metabolism and they live really short
-            lives'
+          value: '- Koquos have a very fast metabolism and a short life span.'
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -35608,8 +35608,8 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: '- He just moved so he doesn''t have much free time. He keeps making
-            punts about food'
+          value: "- He told me he just moved, so he doesn't have much free time. \n
+            \  He keeps making terrible puns about food."
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -35958,7 +35958,7 @@ MonoBehaviour:
           showInInspector: 0
           networkSync: 0
           value: '- She thinks she''s always right and she obviously finds many people
-            stupid. This is a hard one.'
+            stupid. She''s a hard one.'
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -36990,7 +36990,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1195074410581201473
 RectTransform:
   m_ObjectHideFlags: 0
@@ -40423,7 +40423,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: '- I think she is nervous but too proud to admit it'
+          value: '- I think she''s pretty nervous but too proud to admit it.'
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -42697,8 +42697,9 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: '- This girl is asking for impossible perfect partner. I don''t think
-            she is ready for a real reltionship yet. '
+          value: "- This girl is asking for an impossible perfect partner. Is she
+            ready for a relationship?\n  She's very nice, but her standards are too
+            high!"
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []
@@ -43242,7 +43243,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4064611876976357156
 RectTransform:
   m_ObjectHideFlags: 0
@@ -43831,8 +43832,8 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: '- She told me she regrets not having many experiences when she was
-            young. I feel for her.'
+          value: "- She told me she regrets not having many experiences when she was
+            young. \n   I think she considers me a friend."
         fsmObjectParams: []
         fsmVarParams: []
         fsmArrayParams: []

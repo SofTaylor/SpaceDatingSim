@@ -1335,6 +1335,7 @@ GameObject:
   - component: {fileID: 612009400}
   - component: {fileID: 612009398}
   - component: {fileID: 612009417}
+  - component: {fileID: 612009419}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1719,7 +1720,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 395.81348
     y: 166.69594
-    width: 134.98361
+    width: 128.54999
     height: 40
   tint: {r: 0.9622642, g: 0.6088564, b: 0.49474904, a: 1}
   useCustomTint: 1
@@ -3026,7 +3027,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 393.8904
     y: 50.31542
-    width: 132.58972
+    width: 124.061424
     height: 40
   tint: {r: 1, g: 0.7647059, b: 0.4, a: 1}
   useCustomTint: 1
@@ -3539,7 +3540,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 396.62527
     y: 3.9228134
-    width: 132.58972
+    width: 121.81714
     height: 40
   tint: {r: 1, g: 0.7649599, b: 0.4009434, a: 1}
   useCustomTint: 1
@@ -6006,7 +6007,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.49588
     y: -35.37213
-    width: 131.39276
+    width: 121.81714
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -6029,7 +6030,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   scrollPos: {x: 1109.5216, y: 621.4092}
-  variablesScrollPos: {x: 0, y: 0}
+  variablesScrollPos: {x: 0, y: 338.76282}
   variablesExpanded: 1
   blockViewHeight: 400
   zoom: 0.6683641
@@ -6040,8 +6041,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 612009292}
-  selectedCommands: []
+  - {fileID: 612009269}
+  selectedCommands:
+  - {fileID: 612009264}
   variables:
   - {fileID: 612009150}
   - {fileID: 612009189}
@@ -7611,7 +7613,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -106.71234
     y: 92.50983
-    width: 178.0739
+    width: 165.95476
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7701,7 +7703,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -107.9778
     y: 51.293793
-    width: 157.72571
+    width: 148.74857
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7727,7 +7729,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -257.46286
     y: -538.14954
-    width: 138.57448
+    width: 127.8019
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -7986,7 +7988,7 @@ MonoBehaviour:
   itemId: 303
   indentLevel: 0
   storyText: 'You listen to it. It feels like something that young people would listen
-    to and you kinda feel old for not understanding it. '
+    to and you feel kinda old for not understanding it. '
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -8391,7 +8393,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -441.401
     y: -545.5842
-    width: 134.98361
+    width: 125.55762
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8686,7 +8688,7 @@ MonoBehaviour:
   itemId: 244
   indentLevel: 0
   storyText: 'You order the pizza. When it finally arrives you see this immense and
-    good looking pizza: it has an yellowish and strange fruits on it. {w=0.01}You
+    good looking pizza: it has a yellowish and strange-looking fruits on it. {w=0.01}You
     ate it and it was one of the most amazing pizza ever. '
   description: 
   character: {fileID: 0}
@@ -8874,9 +8876,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -25.426193
+    x: -26.922384
     y: -282.75125
-    width: 126.60495
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8890,6 +8892,7 @@ MonoBehaviour:
   - {fileID: 612009289}
   - {fileID: 612009288}
   - {fileID: 612009287}
+  - {fileID: 612009419}
   - {fileID: 612009286}
   - {fileID: 612009285}
   - {fileID: 612009284}
@@ -9022,9 +9025,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -244.65396
+    x: -246.15015
     y: -354.95633
-    width: 132.58972
+    width: 122.56524
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9086,7 +9089,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 309
   indentLevel: 0
-  storyText: 'Today''s menu: Something, Something, Pizza'
+  storyText: 'Today''s menu: Something, Something, Pizza with Bapou Fruit'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -9233,7 +9236,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.7259
     y: -355.83145
-    width: 130.1958
+    width: 120.32095
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9425,7 +9428,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 415.84387
     y: 550.3081
-    width: 148.15009
+    width: 136.03094
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9840,7 +9843,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 417.3982
     y: 509.55786
-    width: 146.95314
+    width: 136.03094
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10065,7 +10068,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.125
     y: 469.19177
-    width: 134.98361
+    width: 125.55762
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10289,7 +10292,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.65857
     y: 425.13742
-    width: 145.7562
+    width: 135.28287
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10541,7 +10544,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.60358
     y: 377.3498
-    width: 133.78667
+    width: 124.809525
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -11419,7 +11422,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.21844
     y: 431.33914
-    width: 180.4678
+    width: 165.95476
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11589,7 +11592,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -182.38104
     y: 382.01346
-    width: 182.86171
+    width: 169.69524
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11759,7 +11762,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -182.01422
     y: 330.81726
-    width: 167.30133
+    width: 155.48143
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11929,7 +11932,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -185.24677
     y: 267.96307
-    width: 178.0739
+    width: 165.20667
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12099,7 +12102,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -183.93756
     y: 217.03261
-    width: 166.10439
+    width: 154.73334
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13187,6 +13190,33 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &612009419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612009063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 419
+  indentLevel: 0
+  storyText: '{w=0.1}You ate it and it was one of the most amazing pizza ever. '
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!84 &732194618
 RenderTexture:
   m_ObjectHideFlags: 0
