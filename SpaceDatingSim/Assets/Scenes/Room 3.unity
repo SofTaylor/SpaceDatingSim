@@ -7424,6 +7424,7 @@ GameObject:
   - component: {fileID: 1635726693}
   - component: {fileID: 1635726707}
   - component: {fileID: 1635726450}
+  - component: {fileID: 1635726708}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -7572,8 +7573,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 974.4542, y: 401.08167}
-  variablesScrollPos: {x: 0, y: 42}
+  scrollPos: {x: 780.6314, y: 191.75302}
+  variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
   zoom: 0.5159352
@@ -7584,9 +7585,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1635726567}
+  - {fileID: 1635726563}
   selectedCommands:
-  - {fileID: 1635726572}
+  - {fileID: 1635726708}
   variables:
   - {fileID: 1635726478}
   - {fileID: 1635726467}
@@ -11375,6 +11376,7 @@ MonoBehaviour:
   - {fileID: 1635726580}
   - {fileID: 1635726579}
   - {fileID: 1635726578}
+  - {fileID: 1635726708}
   - {fileID: 1635726577}
   - {fileID: 1635726576}
   - {fileID: 1635726575}
@@ -11784,8 +11786,7 @@ MonoBehaviour:
   itemId: 139
   indentLevel: 0
   storyText: "Even if you go slowly, you\u2019re still moving. Something is better
-    than nothing! You need to always keep moving forward in life, try new things and
-    never remain stuck on something. "
+    than nothing! "
   description: 
   character: {fileID: 935927604}
   portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
@@ -16332,6 +16333,34 @@ MonoBehaviour:
   indentLevel: 0
   FSM: {fileID: 1028797261}
   destinationEvent: Get variables
+--- !u!114 &1635726708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1635726449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 409
+  indentLevel: 0
+  storyText: 'You need to always keep moving forward in life, try new things and never
+    remain stuck on something. '
+  description: 
+  character: {fileID: 935927604}
+  portrait: {fileID: 21300000, guid: 5c1ad69f944864b7391e8ffc74e8b89a, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1714427569
 GameObject:
   m_ObjectHideFlags: 0
