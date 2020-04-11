@@ -7063,46 +7063,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7743800186167233694, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4372938493583347996, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 650982111}
     - target: {fileID: 5794445367713549081, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7213,6 +7173,16 @@ PrefabInstance:
       propertyPath: fsm.states.Array.data[1].actionData.unityObjectParams.Array.data[0]
       value: 
       objectReference: {fileID: 1635726455}
+    - target: {fileID: 7743800186167233694, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4372938493583347996, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3771445522969987857, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: m_IsActive
@@ -7623,6 +7593,36 @@ PrefabInstance:
       propertyPath: fsm.states.Array.data[1].actionData.paramByteDataSize.Array.data[14]
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1714542250518057286, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 650982111}
     - target: {fileID: 4670059832443276969, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: fsm.states.Array.data[0].actionData.actionIsOpen.Array.data[0]
@@ -7970,11 +7970,6 @@ PrefabInstance:
       propertyPath: fsm.states.Array.data[1].actionData.byteData.Array.data[0]
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7108518859174195702, guid: 9f0546b6577394a4b865d99aeb4dcaef,
-        type: 3}
-      propertyPath: clickEnabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7108518859174195704, guid: 9f0546b6577394a4b865d99aeb4dcaef,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8070,6 +8065,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108518859174195702, guid: 9f0546b6577394a4b865d99aeb4dcaef,
+        type: 3}
+      propertyPath: clickEnabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f0546b6577394a4b865d99aeb4dcaef, type: 3}
@@ -9034,6 +9034,7 @@ GameObject:
   - component: {fileID: 1635726809}
   - component: {fileID: 1635726810}
   - component: {fileID: 1635726811}
+  - component: {fileID: 1635726812}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -9209,11 +9210,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1313.5465, y: 844.1879}
+  scrollPos: {x: 1117.2969, y: 141.0776}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.53487706
+  zoom: 0.52467626
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -9221,8 +9222,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1635726811}
-  selectedCommands: []
+  - {fileID: 1635726480}
+  selectedCommands:
+  - {fileID: 1635726477}
   variables:
   - {fileID: 1635726478}
   - {fileID: 1635726496}
@@ -9912,7 +9914,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -103.80301
     y: 249.36069
-    width: 121.044365
+    width: 120.51968
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10596,7 +10598,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 192.70856
     y: -39.50099
-    width: 148.1534
+    width: 147.20279
     height: 40
   tint: {r: 1, g: 0.78395545, b: 0.3160377, a: 1}
   useCustomTint: 1
@@ -12749,7 +12751,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 190.07716
     y: -263.92587
-    width: 143.47943
+    width: 141.48499
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13170,7 +13172,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 189.93275
     y: -304.08838
-    width: 120.109566
+    width: 120.51968
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -15463,7 +15465,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -520.9003
     y: -453.87076
-    width: 139.74025
+    width: 138.62607
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15953,7 +15955,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -336.96246
     y: -448.72794
-    width: 142.54463
+    width: 141.48499
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -16261,7 +16263,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -476.78036
     y: 56.470505
-    width: 185.54517
+    width: 185.32153
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16351,7 +16353,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -474.8937
     y: 7.4385834
-    width: 143.47943
+    width: 141.48499
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16807,8 +16809,7 @@ MonoBehaviour:
   itemId: 278
   indentLevel: 0
   storyText: "You read it. It was an article talking about the Koquos: Koquos have\r
-    a very fast metabolism, which makes their lifespan very brief. They are well known
-    for\r\ntheir energy and positivity. {w=0.01}Their species.....'"
+    a very fast metabolism, which makes their lifespan very brief."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -17012,6 +17013,7 @@ MonoBehaviour:
   - {fileID: 1635726810}
   - {fileID: 1635726687}
   - {fileID: 1635726686}
+  - {fileID: 1635726812}
   - {fileID: 1635726685}
   - {fileID: 1635726684}
   - {fileID: 1635726679}
@@ -17146,7 +17148,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -349.77136
     y: -642.5906
-    width: 144.41422
+    width: 142.43796
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17337,7 +17339,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -533.70935
     y: -643.89136
-    width: 142.54463
+    width: 140.53201
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17674,7 +17676,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 240.3623
     y: 436.5224
-    width: 123.84875
+    width: 124.33155
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -17926,7 +17928,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 237.76889
     y: 481.42734
-    width: 134.13148
+    width: 134.81421
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -18149,7 +18151,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 238.95425
     y: 603.3343
-    width: 136.00107
+    width: 135.76718
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -18201,7 +18203,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 240.50858
     y: 565.8478
-    width: 136.00107
+    width: 135.76718
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -18425,7 +18427,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 235.55717
     y: 523.30133
-    width: 126.65313
+    width: 126.23749
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -18872,7 +18874,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -496.93985
     y: 237.24907
-    width: 153.76216
+    width: 153.87357
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19245,7 +19247,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -489.22067
     y: 451.55548
-    width: 165.91449
+    width: 165.3092
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19415,7 +19417,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -495.38333
     y: 400.22192
-    width: 169.65366
+    width: 169.12106
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19585,7 +19587,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -495.01645
     y: 343.0021
-    width: 156.56654
+    width: 155.77951
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19755,7 +19757,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -498.249
     y: 286.17157
-    width: 164.04489
+    width: 164.35623
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21219,6 +21221,34 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList: []
+--- !u!114 &1635726812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1635726449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 390
+  indentLevel: 0
+  storyText: " They are well known for\r\ntheir energy and positivity. {w=0.01}Their
+    species.....'"
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1661390468
 GameObject:
   m_ObjectHideFlags: 0
@@ -23093,11 +23123,6 @@ PrefabInstance:
       propertyPath: fsm.states.Array.data[1].actionData.byteData.Array.data[0]
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7108518859174195702, guid: 9f0546b6577394a4b865d99aeb4dcaef,
-        type: 3}
-      propertyPath: clickEnabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7108518859174195704, guid: 9f0546b6577394a4b865d99aeb4dcaef,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23168,6 +23193,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FlipX
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108518859174195702, guid: 9f0546b6577394a4b865d99aeb4dcaef,
+        type: 3}
+      propertyPath: clickEnabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f0546b6577394a4b865d99aeb4dcaef, type: 3}
