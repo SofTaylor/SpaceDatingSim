@@ -386,11 +386,6 @@ PrefabInstance:
       propertyPath: fsm.states.Array.data[1].actionData.byteData.Array.data[0]
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7108518859174195702, guid: 9f0546b6577394a4b865d99aeb4dcaef,
-        type: 3}
-      propertyPath: clickEnabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7108518859174195704, guid: 9f0546b6577394a4b865d99aeb4dcaef,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -481,6 +476,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Radius
       value: 0.6837378
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108518859174195702, guid: 9f0546b6577394a4b865d99aeb4dcaef,
+        type: 3}
+      propertyPath: clickEnabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f0546b6577394a4b865d99aeb4dcaef, type: 3}
@@ -1720,7 +1720,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 395.81348
     y: 166.69594
-    width: 128.54999
+    width: 128.86598
     height: 40
   tint: {r: 0.9622642, g: 0.6088564, b: 0.49474904, a: 1}
   useCustomTint: 1
@@ -3027,7 +3027,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 393.8904
     y: 50.31542
-    width: 124.061424
+    width: 126.237114
     height: 40
   tint: {r: 1, g: 0.7647059, b: 0.4, a: 1}
   useCustomTint: 1
@@ -3102,7 +3102,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 93
   indentLevel: 0
-  storyText: Exactly!
+  storyText: 'Exactly! '
   description: 
   character: {fileID: 1842505889}
   portrait: {fileID: 21300000, guid: c9cc7ed2cf8604b3cb80aed558c2fedf, type: 3}
@@ -3540,7 +3540,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 396.62527
     y: 3.9228134
-    width: 121.81714
+    width: 124.484535
     height: 40
   tint: {r: 1, g: 0.7649599, b: 0.4009434, a: 1}
   useCustomTint: 1
@@ -5818,8 +5818,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 8
   indentLevel: 0
-  storyText: No, I do not. I actually think that having a routine is very useful and
-    calming.
+  storyText: 'No, I do not. I actually think that having a routine is very useful
+    and calming. '
   description: 
   character: {fileID: 1842505889}
   portrait: {fileID: 21300000, guid: dc85d92ce45a04b3487589456062373b, type: 3}
@@ -6007,7 +6007,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.49588
     y: -35.37213
-    width: 121.81714
+    width: 121.85567
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -6029,11 +6029,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 1109.5216, y: 621.4092}
+  scrollPos: {x: 845.34064, y: 303.63113}
   variablesScrollPos: {x: 0, y: 338.76282}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.6683641
+  zoom: 0.57058823
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -6041,9 +6041,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 612009269}
+  - {fileID: 612009128}
   selectedCommands:
-  - {fileID: 612009264}
+  - {fileID: 612009115}
   variables:
   - {fileID: 612009150}
   - {fileID: 612009189}
@@ -7613,7 +7613,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -106.71234
     y: 92.50983
-    width: 165.95476
+    width: 167.42268
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7703,7 +7703,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -107.9778
     y: 51.293793
-    width: 148.74857
+    width: 149.89691
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7729,7 +7729,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -257.46286
     y: -538.14954
-    width: 127.8019
+    width: 128.86598
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -8393,7 +8393,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -441.401
     y: -545.5842
-    width: 125.55762
+    width: 126.237114
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8878,7 +8878,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -26.922384
     y: -282.75125
-    width: 120
+    width: 120.103096
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9027,7 +9027,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -246.15015
     y: -354.95633
-    width: 122.56524
+    width: 122.73196
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9236,7 +9236,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.7259
     y: -355.83145
-    width: 120.32095
+    width: 120.979385
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9428,7 +9428,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 415.84387
     y: 550.3081
-    width: 136.03094
+    width: 138.50516
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9843,7 +9843,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 417.3982
     y: 509.55786
-    width: 136.03094
+    width: 138.50516
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10068,7 +10068,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.125
     y: 469.19177
-    width: 125.55762
+    width: 127.98969
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10292,7 +10292,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.65857
     y: 425.13742
-    width: 135.28287
+    width: 137.62888
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -10544,7 +10544,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 414.60358
     y: 377.3498
-    width: 124.809525
+    width: 127.1134
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -11422,7 +11422,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.21844
     y: 431.33914
-    width: 165.95476
+    width: 169.17526
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11592,7 +11592,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -182.38104
     y: 382.01346
-    width: 169.69524
+    width: 172.68042
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11762,7 +11762,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -182.01422
     y: 330.81726
-    width: 155.48143
+    width: 158.65979
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11932,7 +11932,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -185.24677
     y: 267.96307
-    width: 165.20667
+    width: 168.29898
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12102,7 +12102,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -183.93756
     y: 217.03261
-    width: 154.73334
+    width: 157.78351
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13594,11 +13594,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 7743800186167233694, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5794445367713549081, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13756,6 +13751,11 @@ PrefabInstance:
       propertyPath: m_AnchorMax.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7743800186167233694, guid: b5a2dc4b3cf35496f91495308d3f2a1d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5a2dc4b3cf35496f91495308d3f2a1d, type: 3}
 --- !u!1 &1346664882
@@ -13867,11 +13867,6 @@ PrefabInstance:
       propertyPath: fsm.states.Array.data[1].actionData.byteData.Array.data[0]
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7108518859174195702, guid: 9f0546b6577394a4b865d99aeb4dcaef,
-        type: 3}
-      propertyPath: clickEnabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7108518859174195704, guid: 9f0546b6577394a4b865d99aeb4dcaef,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13937,6 +13932,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7108518859174195702, guid: 9f0546b6577394a4b865d99aeb4dcaef,
+        type: 3}
+      propertyPath: clickEnabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9f0546b6577394a4b865d99aeb4dcaef, type: 3}
