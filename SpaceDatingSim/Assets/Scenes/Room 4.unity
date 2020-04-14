@@ -5098,7 +5098,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 240.26799
     y: 317.33948
-    width: 146.41321
+    width: 142
     height: 40
   tint: {r: 1, g: 0.7311321, b: 0.88940704, a: 1}
   useCustomTint: 1
@@ -9798,7 +9798,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.49588
     y: -35.37213
-    width: 120.6018
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -9820,19 +9820,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 520.0589, y: 339.26776}
+  scrollPos: {x: 2233.4138, y: 1150.8497}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.65862346
+  zoom: 0.25
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1961712069}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 1961712083}
@@ -9995,7 +9994,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 242.06142
     y: 361.24588
-    width: 145.65405
+    width: 142
     height: 40
   tint: {r: 1, g: 0.7311321, b: 0.88940704, a: 1}
   useCustomTint: 1
@@ -10278,7 +10277,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -130.20322
     y: 45.918674
-    width: 187.4078
+    width: 184
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10931,7 +10930,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -88.79647
     y: -442.71927
-    width: 145.65405
+    width: 144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -11086,7 +11085,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -314.6775
     y: -456.06247
-    width: 142.6174
+    width: 142
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11235,7 +11234,7 @@ MonoBehaviour:
   itemId: 303
   indentLevel: 0
   storyText: "You watch tv. There is a program about VIPs and there is something about
-    The Niz: he loves knitting scarves and sweaters\r.\n"
+    The Niz: he loves knitting scarves and sweaters\r."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -12998,7 +12997,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.47455
     y: 633.2631
-    width: 125.91591
+    width: 122
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13222,7 +13221,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.27094
     y: 664.3195
-    width: 136.54413
+    width: 134
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13448,7 +13447,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 445.75568
     y: 592.0918
-    width: 128.19339
+    width: 126
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13672,7 +13671,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 446.28918
     y: 552.1249
-    width: 135.78497
+    width: 132
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -13923,7 +13922,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 447.578
     y: 501.82037
-    width: 125.15675
+    width: 122
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -14644,7 +14643,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -354.75388
     y: 516.7897
-    width: 158.55975
+    width: 154
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14814,7 +14813,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -342.29794
     y: 624.87585
-    width: 170.7063
+    width: 166
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14984,7 +14983,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -341.93112
     y: 573.67957
-    width: 156.28227
+    width: 150
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15154,7 +15153,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -345.16367
     y: 453.27695
-    width: 166.15134
+    width: 160
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -15324,7 +15323,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -342.16187
     y: 402.3465
-    width: 155.52312
+    width: 150
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
