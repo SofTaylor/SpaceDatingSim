@@ -4146,11 +4146,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Andras
       objectReference: {fileID: 0}
-    - target: {fileID: 8863358080097378938, guid: 1089d5761b6074734867932e51776ec2,
-        type: 3}
-      propertyPath: m_FlipX
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8863358080097378933, guid: 1089d5761b6074734867932e51776ec2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4204,6 +4199,11 @@ PrefabInstance:
     - target: {fileID: 8863358080097378933, guid: 1089d5761b6074734867932e51776ec2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8863358080097378938, guid: 1089d5761b6074734867932e51776ec2,
+        type: 3}
+      propertyPath: m_FlipX
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -7943,7 +7943,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 446.50037
-    y: -170.79784
+    y: -169.27951
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -8960,7 +8960,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d02d9822eec54c98afe95bb497211b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scope: 0
+  scope: 2
   key: Hide_1_Andras
   value: 0
 --- !u!114 &1961712100
@@ -9705,7 +9705,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 444.1854
+    x: 445.7037
     y: -205.58235
     width: 120
     height: 40
@@ -9820,8 +9820,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 556.4986, y: 94.818504}
-  variablesScrollPos: {x: 0, y: 291}
+  scrollPos: {x: 520.0589, y: 339.26776}
+  variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
   zoom: 0.65862346
@@ -9832,9 +9832,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1961712041}
-  selectedCommands:
-  - {fileID: 1961711997}
+  - {fileID: 1961712069}
+  selectedCommands: []
   variables:
   - {fileID: 1961712083}
   - {fileID: 1961712115}
@@ -16289,7 +16288,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1961712324
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
